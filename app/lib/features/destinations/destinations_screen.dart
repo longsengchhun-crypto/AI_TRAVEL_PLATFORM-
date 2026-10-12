@@ -9,6 +9,7 @@ import '../../core/widgets/cards.dart';
 import '../../core/widgets/widgets.dart';
 import '../auth/auth_controller.dart';
 import '../maps/place_map.dart';
+import 'places_screen.dart';
 
 class DestinationsScreen extends ConsumerStatefulWidget {
   const DestinationsScreen({super.key, this.initialTag});
@@ -276,34 +277,7 @@ class _DestinationDetailScreenState extends ConsumerState<DestinationDetailScree
         ]),
       );
 
-  void _placeSheet(BuildContext context, Json p) {
-    final money = ref.read(moneyProvider);
-    showModalBottomSheet<void>(
-      context: context,
-      showDragHandle: true,
-      isScrollControlled: true,
-      builder: (c) => SafeArea(
-        child: Padding(
-          padding: const EdgeInsets.fromLTRB(20, 0, 20, 24),
-          child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
-            if (p['image'] != null) WImage(p['image'] as String?, height: 160, width: double.infinity, radius: 10),
-            const SizedBox(height: 12),
-            Text(p['name'] as String, style: Theme.of(c).textTheme.titleLarge),
-            const SizedBox(height: 4),
-            Wrap(spacing: 8, children: [
-              if (p['price_usd'] != null) Pill((p['price_usd'] as num) == 0 ? 'Free' : money(p['price_usd'] as num), icon: Icons.payments_outlined),
-              Pill('${p['duration_min']} min', icon: Icons.schedule),
-              if (p['opens_min'] != null) Pill('${fmtMinutes(p['opens_min'] as int)} – ${fmtMinutes((p['closes_min'] as int) % 1440)}${p['hours_verified'] == true ? '' : ' (indicative)'}', icon: Icons.access_time, color: Tokens.terracotta),
-              if (p['is_demo'] == true) const DemoBadge(),
-            ]),
-            const SizedBox(height: 12),
-            Text(p['description'] as String, style: const TextStyle(height: 1.5)),
-            if (p['tips'] != null) Padding(padding: const EdgeInsets.only(top: 10), child: Text(p['tips'] as String, style: const TextStyle(color: Tokens.inkMuted, fontSize: 13))),
-          ]),
-        ),
-      ),
-    );
-  }
+  void _placeSheet(BuildContext context, Json p) => showPlaceSheet(context, ref, p);
 }
 
 class SaveButton extends ConsumerWidget {

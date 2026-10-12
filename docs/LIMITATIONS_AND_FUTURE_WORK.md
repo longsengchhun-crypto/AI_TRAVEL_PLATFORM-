@@ -10,6 +10,10 @@
 - Accessibility has had no screen-reader audit.
 - Web search field may show a destination slug on deep links until the destination list loads.
 
+**Photos**
+- 15 listings use a placeholder rather than an unsuitable photo; photo selection is automated plus manual review of titles, not a full visual review of all 307 images.
+- Photos are mirrored from Wikimedia Commons under their individual licences; attribution is stored per image (`image_credit`).
+
 **Data caveats**
 - Hotels, restaurants, reviews, bookings, payments are fictional. Prices/hours of real landmarks are indicative.
 - Exchange rates are fixed sample values.

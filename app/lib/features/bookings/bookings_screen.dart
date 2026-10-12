@@ -214,7 +214,7 @@ class _BookingDetailScreenState extends ConsumerState<BookingDetailScreen> {
                 Wrap(spacing: 12, runSpacing: 8, children: [
                   if (status == 'PENDING_CONFIRMATION')
                     FilledButton.icon(
-                      onPressed: busy ? null : () => context.push('/book/${b['room_type_id']}?checkIn=${b['check_in']}&checkOut=${b['check_out']}&rooms=${b['rooms']}&adults=${b['adults']}&children=${b['children']}'),
+                      onPressed: busy ? null : () => context.push('/book/${b['room_type_id']}?bookingId=${b['id']}'),
                       icon: const Icon(Icons.payment),
                       label: const Text('Pay for this booking'),
                     ),

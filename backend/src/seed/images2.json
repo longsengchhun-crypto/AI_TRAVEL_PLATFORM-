@@ -1,0 +1,1736 @@
+{
+ "attractions": {
+  "phnom-penh-wat-phnom": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2016_Phnom_Penh%2C_Wat_Phnom_%2804%29.jpg/960px-2016_Phnom_Penh%2C_Wat_Phnom_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Wat_Phnom_(04).jpg",
+   "title": "2016 Phnom Penh, Wat Phnom (04).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-royal-palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/20171124_Preah_Tineang_Phhochani_in_the_Royal_Palace%2C_Phnom_Penh_4106_DxO.jpg/960px-20171124_Preah_Tineang_Phhochani_in_the_Royal_Palace%2C_Phnom_Penh_4106_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A20171124_Preah_Tineang_Phhochani_in_the_Royal_Palace%2C_Phnom_Penh_4106_DxO.jpg",
+   "title": "20171124 Preah Tineang Phhochani in the Royal Palace, Phnom Penh 4106 DxO.jpg",
+   "credit": "Jakub Hałun, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-national-museum-of-cambodia": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2016_Phnom_Penh%2C_Muzeum_Narodowe_Kambod%C5%BCy_%2810%29.jpg/960px-2016_Phnom_Penh%2C_Muzeum_Narodowe_Kambod%C5%BCy_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Muzeum_Narodowe_Kambod%C5%BCy_(10).jpg",
+   "title": "2016 Phnom Penh, Muzeum Narodowe Kambodży (10).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-tuol-sleng-genocide-museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2016_Phnom_Penh%2C_Muzeum_Ludob%C3%B3jstwa_Tuol_Sleng_%2817%29.jpg/960px-2016_Phnom_Penh%2C_Muzeum_Ludob%C3%B3jstwa_Tuol_Sleng_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Muzeum_Ludob%C3%B3jstwa_Tuol_Sleng_(17).jpg",
+   "title": "2016 Phnom Penh, Muzeum Ludobójstwa Tuol Sleng (17).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-choeung-ek-genocidal-center": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Skulls_and_Bones_of_Victims_inside_Memorial_Stupa_at_Choeung_Ek_Genocidal_Center_Phnom_Penh_2016-05-23.jpg/960px-Skulls_and_Bones_of_Victims_inside_Memorial_Stupa_at_Choeung_Ek_Genocidal_Center_Phnom_Penh_2016-05-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASkulls_and_Bones_of_Victims_inside_Memorial_Stupa_at_Choeung_Ek_Genocidal_Center_Phnom_Penh_2016-05-23.jpg",
+   "title": "Skulls and Bones of Victims inside Memorial Stupa at Choeung Ek Genocidal Center Phnom Penh 2016-05-23.jpg",
+   "credit": "Ankur Panchbudhe, CC BY 2.0 via Wikimedia Commons"
+  },
+  "phnom-penh-independence-monument": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/02-Independence_Monument_Phnom_Penh-nX-3.jpg/960px-02-Independence_Monument_Phnom_Penh-nX-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A02-Independence_Monument_Phnom_Penh-nX-3.jpg",
+   "title": "02-Independence Monument Phnom Penh-nX-3.jpg",
+   "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-wat-ounalom": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/03-Wat_Ounalom-nX-23.jpg/960px-03-Wat_Ounalom-nX-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A03-Wat_Ounalom-nX-23.jpg",
+   "title": "03-Wat Ounalom-nX-23.jpg",
+   "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-sisowath-quay-riverfront": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2016_Phnom_Penh%2C_Pomnik_kr%C3%B3la_Sisowatha_po%C5%9Bwi%C4%99cony_traktatowi_z_1907_roku_%2801%29.jpg/960px-2016_Phnom_Penh%2C_Pomnik_kr%C3%B3la_Sisowatha_po%C5%9Bwi%C4%99cony_traktatowi_z_1907_roku_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Pomnik_kr%C3%B3la_Sisowatha_po%C5%9Bwi%C4%99cony_traktatowi_z_1907_roku_(01).jpg",
+   "title": "2016 Phnom Penh, Pomnik króla Sisowatha poświęcony traktatowi z 1907 roku (01).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-mekong-sunset-river-cruise": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/20171124_Mekong_River_Phnom_Penh_4205_DxO.jpg/960px-20171124_Mekong_River_Phnom_Penh_4205_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A20171124_Mekong_River_Phnom_Penh_4205_DxO.jpg",
+   "title": "20171124 Mekong River Phnom Penh 4205 DxO.jpg",
+   "credit": "Jakub Hałun, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-angkor-wat": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg/960px-2014-Cambodge_Angkor_Wat_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2014-Cambodge_Angkor_Wat_(21).jpg",
+   "title": "2014-Cambodge Angkor Wat (21).jpg",
+   "credit": "Pierre André Leclercq, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-bayon-temple-angkor-thom": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bayon_Temple%2C_Siem_Reap%2C_Cambodia_-_panoramio.jpg/960px-Bayon_Temple%2C_Siem_Reap%2C_Cambodia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABayon_Temple%2C_Siem_Reap%2C_Cambodia_-_panoramio.jpg",
+   "title": "Bayon Temple, Siem Reap, Cambodia - panoramio.jpg",
+   "credit": "Scorewith German, CC BY 3.0 via Wikimedia Commons"
+  },
+  "siem-reap-ta-prohm": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2016_Angkor%2C_Ta_Prohm_%2807%29.jpg/960px-2016_Angkor%2C_Ta_Prohm_%2807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Angkor%2C_Ta_Prohm_(07).jpg",
+   "title": "2016 Angkor, Ta Prohm (07).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-banteay-srei": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Banteay_Srei_32a.jpg/960px-Banteay_Srei_32a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABanteay_Srei_32a.jpg",
+   "title": "Banteay Srei 32a.jpg",
+   "credit": "Olaf Tausch, CC BY 3.0 via Wikimedia Commons"
+  },
+  "siem-reap-preah-khan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Preah_Khan_temple_%282%29.jpg/960px-Preah_Khan_temple_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APreah_Khan_temple_(2).jpg",
+   "title": "Preah Khan temple (2).jpg",
+   "credit": "Krzysztof Golik, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-angkor-national-museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Angkor_National_Museum_%28II%29.jpg/960px-Angkor_National_Museum_%28II%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AAngkor_National_Museum_(II).jpg",
+   "title": "Angkor National Museum (II).jpg",
+   "credit": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to , CC BY 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-phare-the-cambodian-circus": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Phare_Circus%2C_Siem_Reap%2C_Cambodia.jpg/960px-Phare_Circus%2C_Siem_Reap%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APhare_Circus%2C_Siem_Reap%2C_Cambodia.jpg",
+   "title": "Phare Circus, Siem Reap, Cambodia.jpg",
+   "credit": "flowcomm, CC BY 2.0 via Wikimedia Commons"
+  },
+  "siem-reap-chong-kneas-floating-village": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Chong_Kneas_floating_village_%284380157829%29.jpg/960px-Chong_Kneas_floating_village_%284380157829%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AChong_Kneas_floating_village_(4380157829).jpg",
+   "title": "Chong Kneas floating village (4380157829).jpg",
+   "credit": "Christine  Zenino from Chicago, US, CC BY 2.0 via Wikimedia Commons"
+  },
+  "siem-reap-angkor-sunrise-tour": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Angkor_Wat_Photography_Tour.jpg/960px-Angkor_Wat_Photography_Tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AAngkor_Wat_Photography_Tour.jpg",
+   "title": "Angkor Wat Photography Tour.jpg",
+   "credit": "Laurent Dambies, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kampot-kampot-riverside-promenade": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/2022.08-516-214ap1_sculpture%2C_monument_Durian_Roundabout%2CKampot%2CKH_sat20aug2022-1556h.jpg/960px-2022.08-516-214ap1_sculpture%2C_monument_Durian_Roundabout%2CKampot%2CKH_sat20aug2022-1556h.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2022.08-516-214ap1_sculpture%2C_monument_Durian_Roundabout%2CKampot%2CKH_sat20aug2022-1556h.jpg",
+   "title": "2022.08-516-214ap1 sculpture, monument Durian Roundabout,Kampot,KH sat20aug2022-1556h.jpg",
+   "credit": "Rik Schuiling / TropCrop-TCS, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kampot-bokor-national-park": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2016_Kampot%2C_Departament_Gospodarki_i_Finans%C3%B3w_prowincji_Kampot_%2802%29.jpg/960px-2016_Kampot%2C_Departament_Gospodarki_i_Finans%C3%B3w_prowincji_Kampot_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Departament_Gospodarki_i_Finans%C3%B3w_prowincji_Kampot_(02).jpg",
+   "title": "2016 Kampot, Departament Gospodarki i Finansów prowincji Kampot (02).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kampot-kampot-pepper-farm-visit": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_%2802%29.jpg/960px-2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_(02).jpg",
+   "title": "2016 Kampot, Narodowy Bank Kambodży - oddział w Kampot (02).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kampot-kampot-salt-fields": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Woman_working_the_salt_fields_in_Kampot.jpg/960px-Woman_working_the_salt_fields_in_Kampot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AWoman_working_the_salt_fields_in_Kampot.jpg",
+   "title": "Woman working the salt fields in Kampot.jpg",
+   "credit": "douglasjonesjr, CC BY 2.0 via Wikimedia Commons"
+  },
+  "siem-reap-countryside-bicycle-tour": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Siem_Reap%2C_varios_03.jpg/960px-Siem_Reap%2C_varios_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASiem_Reap%2C_varios_03.jpg",
+   "title": "Siem Reap, varios 03.jpg",
+   "credit": "LBM1948, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kep-kep-crab-market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Kep_Crab_Market.jpg/960px-Kep_Crab_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AKep_Crab_Market.jpg",
+   "title": "Kep Crab Market.jpg",
+   "credit": "Mx. Granger, CC0 via Wikimedia Commons"
+  },
+  "kep-rabbit-island-koh-tonsay": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Beach_on_Rabbit_Island_near_Nelson.jpg/960px-Beach_on_Rabbit_Island_near_Nelson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABeach_on_Rabbit_Island_near_Nelson.jpg",
+   "title": "Beach on Rabbit Island near Nelson.jpg",
+   "credit": "Pseudopanax at English Wikipedia, Public domain via Wikimedia Commons"
+  },
+  "kep-kep-national-park-trail": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/06-Kep_Crab_Market_Cambodia-nX-8.jpg/960px-06-Kep_Crab_Market_Cambodia-nX-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A06-Kep_Crab_Market_Cambodia-nX-8.jpg",
+   "title": "06-Kep Crab Market Cambodia-nX-8.jpg",
+   "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "koh-rong-koh-touch-beach": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Lazy_Beach%2C_Koh_Rong_Sanloem.jpg/960px-Lazy_Beach%2C_Koh_Rong_Sanloem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ALazy_Beach%2C_Koh_Rong_Sanloem.jpg",
+   "title": "Lazy Beach, Koh Rong Sanloem.jpg",
+   "credit": "Treehill, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "battambang-bamboo-train-norry": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Bamboo_train_Battambang.jpg/960px-Bamboo_train_Battambang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABamboo_train_Battambang.jpg",
+   "title": "Bamboo train Battambang.jpg",
+   "credit": "Marcel40chaudron, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "battambang-phnom-sampeau-bat-caves": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_bat_cave-_they_should_start_flying_out_now_%2814429484776%29.jpg/960px-The_bat_cave-_they_should_start_flying_out_now_%2814429484776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AThe_bat_cave-_they_should_start_flying_out_now_(14429484776).jpg",
+   "title": "The bat cave- they should start flying out now (14429484776).jpg",
+   "credit": "shankar s. from Dubai, united arab emirates, CC BY 2.0 via Wikimedia Commons"
+  },
+  "koh-rong-bioluminescent-plankton-night-swim": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/View_from_the_north_of_Koh_Rong_Sanloem_towards_the_south.jpg/960px-View_from_the_north_of_Koh_Rong_Sanloem_towards_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AView_from_the_north_of_Koh_Rong_Sanloem_towards_the_south.jpg",
+   "title": "View from the north of Koh Rong Sanloem towards the south.jpg",
+   "credit": "Treehill, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "battambang-battambang-provincial-museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Shiva_Ling.jpg/960px-Shiva_Ling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AShiva_Ling.jpg",
+   "title": "Shiva Ling.jpg",
+   "credit": "AKS.9955, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "sihanoukville-otres-beach": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Otres_Beach_-_Sihanoukville.jpg/960px-Otres_Beach_-_Sihanoukville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AOtres_Beach_-_Sihanoukville.jpg",
+   "title": "Otres Beach - Sihanoukville.jpg",
+   "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "sihanoukville-ream-national-park": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Hospital_-_Ream_National_Park.jpg/960px-Hospital_-_Ream_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AHospital_-_Ream_National_Park.jpg",
+   "title": "Hospital - Ream National Park.jpg",
+   "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "sihanoukville-serendipity-beach": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2016_Sihanoukville%2C_Pla%C5%BCa_Serendipity_%2808%29.jpg/960px-2016_Sihanoukville%2C_Pla%C5%BCa_Serendipity_%2808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Sihanoukville%2C_Pla%C5%BCa_Serendipity_(08).jpg",
+   "title": "2016 Sihanoukville, Plaża Serendipity (08).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kratie-phnom-sambok": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/View_Phnom_Sambok_001_-_panoramio.jpg/960px-View_Phnom_Sambok_001_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AView_Phnom_Sambok_001_-_panoramio.jpg",
+   "title": "View Phnom Sambok 001 - panoramio.jpg",
+   "credit": "Adriaan Castermans, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "kratie-irrawaddy-dolphins-at-kampi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Scenery_on_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_04_%2848378623111%29.jpg/960px-Scenery_on_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_04_%2848378623111%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AScenery_on_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_04_(48378623111).jpg",
+   "title": "Scenery on Koh Trong Island - Mekong River - Kratie - Cambodia - 04 (48378623111).jpg",
+   "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "kratie-koh-trong-island-cycle": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Scenery_on_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_03_%2848378623481%29.jpg/960px-Scenery_on_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_03_%2848378623481%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AScenery_on_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_03_(48378623481).jpg",
+   "title": "Scenery on Koh Trong Island - Mekong River - Kratie - Cambodia - 03 (48378623481).jpg",
+   "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "mondulkiri-bou-sra-waterfall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Bou_Sra_Waterfall%2C_Mondulkiri%2C_Cambodia.jpg/960px-Bou_Sra_Waterfall%2C_Mondulkiri%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABou_Sra_Waterfall%2C_Mondulkiri%2C_Cambodia.jpg",
+   "title": "Bou Sra Waterfall, Mondulkiri, Cambodia.jpg",
+   "credit": "Dtfman, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "mondulkiri-ethical-elephant-sanctuary-visit": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Mondul_Kiri_Cambodia_3048.jpg/960px-Mondul_Kiri_Cambodia_3048.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AMondul_Kiri_Cambodia_3048.jpg",
+   "title": "Mondul Kiri Cambodia 3048.jpg",
+   "credit": "Christian Pirkl, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "mondulkiri-sen-monorom-pine-hills": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Road_to_Sen_Monorom.JPG/960px-Road_to_Sen_Monorom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ARoad_to_Sen_Monorom.JPG",
+   "title": "Road to Sen Monorom.JPG",
+   "credit": "Travelpleb, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "bangkok-grand-palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Night_Urban_City%2C_Saket_Temple%2C_Landmark_of_Bangkok%2C_Thailand.jpg/960px-Night_Urban_City%2C_Saket_Temple%2C_Landmark_of_Bangkok%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ANight_Urban_City%2C_Saket_Temple%2C_Landmark_of_Bangkok%2C_Thailand.jpg",
+   "title": "Night Urban City, Saket Temple, Landmark of Bangkok, Thailand.jpg",
+   "credit": "Preecha.MJ, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "bangkok-wat-pho": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg/960px-Wat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AWat_Pho%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg",
+   "title": "Wat Pho, Bangkok, Tailandia, 2013-08-22, DD 37.jpg",
+   "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "koh-kong-mangrove-kayaking": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mandrove_Trail_at_Peam_Krasop_Wildlife_Sanctuary.jpg/960px-Mandrove_Trail_at_Peam_Krasop_Wildlife_Sanctuary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AMandrove_Trail_at_Peam_Krasop_Wildlife_Sanctuary.jpg",
+   "title": "Mandrove Trail at Peam Krasop Wildlife Sanctuary.jpg",
+   "credit": "Dtfman, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "bangkok-chatuchak-weekend-market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg/960px-Chatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_%284570440063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AChatuchak_Weekend_Market%2C_Bangkok%2C_Thailand_(4570440063).jpg",
+   "title": "Chatuchak Weekend Market, Bangkok, Thailand (4570440063).jpg",
+   "credit": "yeowatzup, CC BY 2.0 via Wikimedia Commons"
+  },
+  "bangkok-wat-arun": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/The_sculptures_of_two_mythical_giant_demons%2C_Thotsakan_and_Sahatsadecha%2C_guarding_the_eastern_gate_of_the_main_chapel_of_Wat_Arun%2C_Bangkok.jpg/960px-The_sculptures_of_two_mythical_giant_demons%2C_Thotsakan_and_Sahatsadecha%2C_guarding_the_eastern_gate_of_the_main_chapel_of_Wat_Arun%2C_Bangkok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AThe_sculptures_of_two_mythical_giant_demons%2C_Thotsakan_and_Sahatsadecha%2C_guarding_the_eastern_gate_of_the_main_chapel_of_Wat_Arun%2C_Bangkok.jpg",
+   "title": "The sculptures of two mythical giant demons, Thotsakan and Sahatsadecha, guarding the eastern gate of the main chapel of Wat Arun, Bangkok.jpg",
+   "credit": "BerryJ, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "singapore-gardens-by-the-bay": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASupertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore1.jpg",
+   "title": "Supertree Grove, Gardens by the Bay, Singapore1.jpg",
+   "credit": "Mustang Joe, CC0 via Wikimedia Commons"
+  },
+  "kuala-lumpur-petronas-twin-towers": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg/960px-Kuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AKuala_Lumpur_Malaysia_Petronas-Twin-Towers-01.jpg",
+   "title": "Kuala Lumpur Malaysia Petronas-Twin-Towers-01.jpg",
+   "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "kuala-lumpur-batu-caves": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Batu_Caves%2C_Kuala_Lumpur_%2849508742752%29.jpg/960px-Batu_Caves%2C_Kuala_Lumpur_%2849508742752%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABatu_Caves%2C_Kuala_Lumpur_(49508742752).jpg",
+   "title": "Batu Caves, Kuala Lumpur (49508742752).jpg",
+   "credit": "Dennis Sylvester Hurd from Minuwangoda, WP, Sri Lanka, Canad, CC BY 2.0 via Wikimedia Commons"
+  },
+  "kuala-lumpur-jalan-alor-food-street": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Jalan_Alor_-_Kuala_Lumpur.jpg/960px-Jalan_Alor_-_Kuala_Lumpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AJalan_Alor_-_Kuala_Lumpur.jpg",
+   "title": "Jalan Alor - Kuala Lumpur.jpg",
+   "credit": "IQRemix, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "ho-chi-minh-city-war-remnants-museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/960px-Artiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AArtiller%C3%ADa%2C_Museo_de_los_Vestigios_de_la_Guerra_de_Vietnam%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG",
+   "title": "Artillería, Museo de los Vestigios de la Guerra de Vietnam, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.JPG",
+   "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "ho-chi-minh-city-notre-dame-cathedral-basilica": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ho_Chi_Minh_City%2C_Notre-Dame_Basilica%2C_2020-01_CN-01.jpg/960px-Ho_Chi_Minh_City%2C_Notre-Dame_Basilica%2C_2020-01_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AHo_Chi_Minh_City%2C_Notre-Dame_Basilica%2C_2020-01_CN-01.jpg",
+   "title": "Ho Chi Minh City, Notre-Dame Basilica, 2020-01 CN-01.jpg",
+   "credit": "Steffen Schmitz (more photos), CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "ho-chi-minh-city-ben-thanh-market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/960px-Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABen_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG",
+   "title": "Ben Thanh, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.JPG",
+   "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "hanoi-hoan-kiem-lake": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Hanoi%2C_Vietnam%2C_Hoan_Kiem_Lake.jpg/960px-Hanoi%2C_Vietnam%2C_Hoan_Kiem_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AHanoi%2C_Vietnam%2C_Hoan_Kiem_Lake.jpg",
+   "title": "Hanoi, Vietnam, Hoan Kiem Lake.jpg",
+   "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+  },
+  "hanoi-temple-of-literature": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_gate_of_the_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3068.jpg/960px-Main_gate_of_the_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3068.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AMain_gate_of_the_Temple_of_Literature%2C_Hanoi%2C_Vietnam%2C_20240123_0929_3068.jpg",
+   "title": "Main gate of the Temple of Literature, Hanoi, Vietnam, 20240123 0929 3068.jpg",
+   "credit": "Jakub Hałun, CC BY 4.0 via Wikimedia Commons"
+  },
+  "bali-tegallalang-rice-terraces": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Rice_terraces%2C_Bali.jpg/960px-Rice_terraces%2C_Bali.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ARice_terraces%2C_Bali.jpg",
+   "title": "Rice terraces, Bali.jpg",
+   "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+  },
+  "singapore-singapore-botanic-gardens": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg/960px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASkyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg",
+   "title": "Skyline of the Central Business District of Singapore with Esplanade Bridge.jpg",
+   "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "singapore-marina-bay-sands-waterfront": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Esplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg/960px-Esplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AEsplanade_Theatres_on_the_Bay_Singapore_at_blue_hour.jpg",
+   "title": "Esplanade Theatres on the Bay Singapore at blue hour.jpg",
+   "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "bali-sacred-monkey-forest-sanctuary": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688756636%29.jpg/960px-Bali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_%282688756636%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABali_%E2%80%93_The_Sacred_Monkey_Forest_Sanctuary_(2688756636).jpg",
+   "title": "Bali – The Sacred Monkey Forest Sanctuary (2688756636).jpg",
+   "credit": "William Cho, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "bali-ubud-palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Ubud_Palace%2C_Bali%2C_Indonesia%2C_20220822_0904_9820.jpg/960px-Ubud_Palace%2C_Bali%2C_Indonesia%2C_20220822_0904_9820.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AUbud_Palace%2C_Bali%2C_Indonesia%2C_20220822_0904_9820.jpg",
+   "title": "Ubud Palace, Bali, Indonesia, 20220822 0904 9820.jpg",
+   "credit": "Jakub Hałun, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "tokyo-senso-ji": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2024-10-20_Tokyo%2C_Sens%C5%8D-ji_4.jpg/960px-2024-10-20_Tokyo%2C_Sens%C5%8D-ji_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2024-10-20_Tokyo%2C_Sens%C5%8D-ji_4.jpg",
+   "title": "2024-10-20 Tokyo, Sensō-ji 4.jpg",
+   "credit": "Alexkom000, CC BY 4.0 via Wikimedia Commons"
+  },
+  "tokyo-shibuya-crossing": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Shibuya_Crossing%2C_Aerial.jpg/960px-Shibuya_Crossing%2C_Aerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AShibuya_Crossing%2C_Aerial.jpg",
+   "title": "Shibuya Crossing, Aerial.jpg",
+   "credit": "David Kernan, CC BY 4.0 via Wikimedia Commons"
+  },
+  "tokyo-meiji-jingu": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Meiji_Jingu_Stadium_aerial_view.jpg/960px-Meiji_Jingu_Stadium_aerial_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AMeiji_Jingu_Stadium_aerial_view.jpg",
+   "title": "Meiji Jingu Stadium aerial view.jpg",
+   "credit": "Arne Müseler, CC BY-SA 3.0 de via Wikimedia Commons"
+  },
+  "singapore-maxwell-food-centre": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Maxwell_Road%2C_Singapore%2C_2024_%2801%29.jpg/960px-Maxwell_Road%2C_Singapore%2C_2024_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AMaxwell_Road%2C_Singapore%2C_2024_(01).jpg",
+   "title": "Maxwell Road, Singapore, 2024 (01).jpg",
+   "credit": "Bahnfrend, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "seoul-gwangjang-market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gwangjang_Market%2C_Seoul_02.jpg/960px-Gwangjang_Market%2C_Seoul_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AGwangjang_Market%2C_Seoul_02.jpg",
+   "title": "Gwangjang Market, Seoul 02.jpg",
+   "credit": "Bgag, CC0 via Wikimedia Commons"
+  },
+  "seoul-gyeongbokgung-palace": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Seoul_City_Core_from_N-Seoul_Tower_%285464351080%29.jpg/960px-Seoul_City_Core_from_N-Seoul_Tower_%285464351080%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASeoul_City_Core_from_N-Seoul_Tower_(5464351080).jpg",
+   "title": "Seoul City Core from N-Seoul Tower (5464351080).jpg",
+   "credit": "InSapphoWeTrust from Los Angeles, California, USA, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "luang-prabang-wat-xieng-thong": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Front_view_of_Wat_Mai_Suwannaphumaham_Buddhist_temple_at_blue_hour_in_Luang_Prabang_Laos.jpg/960px-Front_view_of_Wat_Mai_Suwannaphumaham_Buddhist_temple_at_blue_hour_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AFront_view_of_Wat_Mai_Suwannaphumaham_Buddhist_temple_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "title": "Front view of Wat Mai Suwannaphumaham Buddhist temple at blue hour in Luang Prabang Laos.jpg",
+   "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "seoul-bukchon-hanok-village": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Seoul_Culture_High_School.jpg/960px-Seoul_Culture_High_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASeoul_Culture_High_School.jpg",
+   "title": "Seoul Culture High School.jpg",
+   "credit": "Bigsmile20, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "luang-prabang-kuang-si-falls": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg/960px-Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AKuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg",
+   "title": "Kuang Si Falls and a turquoise water pool in Luang Prabang province Laos.jpg",
+   "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "chiang-mai-wat-phra-that-doi-suthep": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Phra_That_Doi_Suthep_01.jpg/960px-Phra_That_Doi_Suthep_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APhra_That_Doi_Suthep_01.jpg",
+   "title": "Phra That Doi Suthep 01.jpg",
+   "credit": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอ, CC BY 3.0 via Wikimedia Commons"
+  },
+  "chiang-mai-wat-chedi-luang": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Wat_Chedi_Luang_Assembly_Hall%2C_Chiang_Mai%2C_Thailand_-_Diliff.jpg/960px-Wat_Chedi_Luang_Assembly_Hall%2C_Chiang_Mai%2C_Thailand_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AWat_Chedi_Luang_Assembly_Hall%2C_Chiang_Mai%2C_Thailand_-_Diliff.jpg",
+   "title": "Wat Chedi Luang Assembly Hall, Chiang Mai, Thailand - Diliff.jpg",
+   "credit": "Diliff, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "phnom-penh-phnom-penh-night-market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Phnom_Penh_Night_Market.jpg/960px-Phnom_Penh_Night_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APhnom_Penh_Night_Market.jpg",
+   "title": "Phnom Penh Night Market.jpg",
+   "credit": "Mx. Granger, CC0 via Wikimedia Commons"
+  },
+  "siem-reap-cambodia-landmine-museum": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Land_Mines_%289733041706%29.jpg/960px-Land_Mines_%289733041706%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ALand_Mines_(9733041706).jpg",
+   "title": "Land Mines (9733041706).jpg",
+   "credit": "Gary Todd from Xinzheng, China, CC0 via Wikimedia Commons"
+  },
+  "phnom-penh-wat-langka": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2016_Phnom_Penh%2C_Wat_Langka_%2823%29.jpg/960px-2016_Phnom_Penh%2C_Wat_Langka_%2823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Wat_Langka_(23).jpg",
+   "title": "2016 Phnom Penh, Wat Langka (23).jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-angkor-night-market": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Angkor_night_Market%2C_Cambodia.jpg/960px-Angkor_night_Market%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AAngkor_night_Market%2C_Cambodia.jpg",
+   "title": "Angkor night Market, Cambodia.jpg",
+   "credit": "Wilsen Escandor, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-banteay-samre": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Banteay_Samre_-_003_Windows_%288583450393%29.jpg/960px-Banteay_Samre_-_003_Windows_%288583450393%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABanteay_Samre_-_003_Windows_(8583450393).jpg",
+   "title": "Banteay Samre - 003 Windows (8583450393).jpg",
+   "credit": "Photo Dharma from Penang, Malaysia, CC BY 2.0 via Wikimedia Commons"
+  },
+  "battambang-wat-ek-phnom": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Ek_Phnom3.JPG/960px-Ek_Phnom3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AEk_Phnom3.JPG",
+   "title": "Ek Phnom3.JPG",
+   "credit": "Clemens Schmillen, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kampot-kampot-old-bridge": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Passing_Under_the_Bridge_-_Kampot_River_-_Kampot_-_Cambodia_%2848529032082%29.jpg/960px-Passing_Under_the_Bridge_-_Kampot_River_-_Kampot_-_Cambodia_%2848529032082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APassing_Under_the_Bridge_-_Kampot_River_-_Kampot_-_Cambodia_(48529032082).jpg",
+   "title": "Passing Under the Bridge - Kampot River - Kampot - Cambodia (48529032082).jpg",
+   "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "bangkok-jim-thompson-house": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Jim_Thompson_House_Bangkok_P1110314.JPG/960px-Jim_Thompson_House_Bangkok_P1110314.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AJim_Thompson_House_Bangkok_P1110314.JPG",
+   "title": "Jim Thompson House Bangkok P1110314.JPG",
+   "credit": "Deror_avi, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "singapore-sentosa-island": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Sunset_at_Sentosa_Island%2C_Singapore_%284374846421%29.jpg/960px-Sunset_at_Sentosa_Island%2C_Singapore_%284374846421%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASunset_at_Sentosa_Island%2C_Singapore_(4374846421).jpg",
+   "title": "Sunset at Sentosa Island, Singapore (4374846421).jpg",
+   "credit": "Michael Spencer from Perth, Western Australia, Australia., CC BY 2.0 via Wikimedia Commons"
+  },
+  "ho-chi-minh-city-cu-chi-tunnels": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Cu_Chi_Tunnels%2C_Ho_Chi_Minh_City%2C_Vietnam_%2849579800651%29.jpg/960px-Cu_Chi_Tunnels%2C_Ho_Chi_Minh_City%2C_Vietnam_%2849579800651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACu_Chi_Tunnels%2C_Ho_Chi_Minh_City%2C_Vietnam_(49579800651).jpg",
+   "title": "Cu Chi Tunnels, Ho Chi Minh City, Vietnam (49579800651).jpg",
+   "credit": "flowcomm, CC BY 2.0 via Wikimedia Commons"
+  },
+  "hanoi-ho-chi-minh-mausoleum-complex": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/HCM_Mausoleum-_closed_as_his_preserved_body_wan%27t_it_%2831454165115%29.jpg/960px-HCM_Mausoleum-_closed_as_his_preserved_body_wan%27t_it_%2831454165115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AHCM_Mausoleum-_closed_as_his_preserved_body_wan't_it_(31454165115).jpg",
+   "title": "HCM Mausoleum- closed as his preserved body wan't it (31454165115).jpg",
+   "credit": "shankar s. from Dubai, united arab emirates, CC BY 2.0 via Wikimedia Commons"
+  },
+  "kuala-lumpur-perdana-botanical-garden": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Perdana_Botanical_Garden_in_May_2020_01.jpg/960px-Perdana_Botanical_Garden_in_May_2020_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APerdana_Botanical_Garden_in_May_2020_01.jpg",
+   "title": "Perdana Botanical Garden in May 2020 01.jpg",
+   "credit": "Renek78, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "bali-tirta-empul-temple": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Pura_Tirta_Empul%2C_Ubud%2C_Bali%2C_Indonesia.JPG/960px-Pura_Tirta_Empul%2C_Ubud%2C_Bali%2C_Indonesia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APura_Tirta_Empul%2C_Ubud%2C_Bali%2C_Indonesia.JPG",
+   "title": "Pura Tirta Empul, Ubud, Bali, Indonesia.JPG",
+   "credit": "Saranabhi, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "tokyo-tokyo-skytree": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_Kudan_main_gate_%283%29.jpg/960px-The_Kudan_main_gate_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AThe_Kudan_main_gate_(3).jpg",
+   "title": "The Kudan main gate (3).jpg",
+   "credit": "Eugene Alvin Villar (seav), CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "seoul-n-seoul-tower": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Seoul_Nightview%282010%29.jpg/960px-Seoul_Nightview%282010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASeoul_Nightview(2010).jpg",
+   "title": "Seoul Nightview(2010).jpg",
+   "credit": "Inchang Moses Sye, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "chiang-mai-sunday-walking-street": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Night_Market_Chiang_Mai.jpg/960px-Night_Market_Chiang_Mai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ANight_Market_Chiang_Mai.jpg",
+   "title": "Night Market Chiang Mai.jpg",
+   "credit": "Adbar, CC BY-SA 3.0 via Wikimedia Commons"
+  }
+ },
+ "destinations": {
+  "phnom-penh": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg/960px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_(14).jpg",
+    "title": "2016 Phnom Penh, Pałac Królewski, Preah Tineang Phhochani (14).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Srebrna_Pagoda_%2802%29.jpg/960px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Srebrna_Pagoda_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Srebrna_Pagoda_(02).jpg",
+    "title": "2016 Phnom Penh, Pałac Królewski, Srebrna Pagoda (02).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Pawilon_Chanchhaya_%2802%29.jpg/960px-2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Pawilon_Chanchhaya_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Pawilon_Chanchhaya_(02).jpg",
+    "title": "2016 Phnom Penh, Pałac Królewski, Pawilon Chanchhaya (02).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Royal_Palace%2C_Phnom_Penh_Cambodia_1.jpg/960px-Royal_Palace%2C_Phnom_Penh_Cambodia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARoyal_Palace%2C_Phnom_Penh_Cambodia_1.jpg",
+    "title": "Royal Palace, Phnom Penh Cambodia 1.jpg",
+    "credit": "Hanay, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/2016_Phnom_Penh%2C_Wat_Phnom_%2807%29.jpg/960px-2016_Phnom_Penh%2C_Wat_Phnom_%2807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Wat_Phnom_(07).jpg",
+    "title": "2016 Phnom Penh, Wat Phnom (07).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2016_Phnom_Penh%2C_Biuro_UNESCO_%2803%29.jpg/960px-2016_Phnom_Penh%2C_Biuro_UNESCO_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Biuro_UNESCO_(03).jpg",
+    "title": "2016 Phnom Penh, Biuro UNESCO (03).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2016_Phnom_Penh%2C_Wat_Langka_%2827%29.jpg/960px-2016_Phnom_Penh%2C_Wat_Langka_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Phnom_Penh%2C_Wat_Langka_(27).jpg",
+    "title": "2016 Phnom Penh, Wat Langka (27).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "siem-reap": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Tonle_Sap_Siem_Reap_Cambodia_Girl-begging-for-money-with-snake-01.jpg/960px-Tonle_Sap_Siem_Reap_Cambodia_Girl-begging-for-money-with-snake-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATonle_Sap_Siem_Reap_Cambodia_Girl-begging-for-money-with-snake-01.jpg",
+    "title": "Tonle Sap Siem Reap Cambodia Girl-begging-for-money-with-snake-01.jpg",
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Common_imperial_%28Cheritra_freja_evansi%29_Siem_Reap.jpg/960px-Common_imperial_%28Cheritra_freja_evansi%29_Siem_Reap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACommon_imperial_(Cheritra_freja_evansi)_Siem_Reap.jpg",
+    "title": "Common imperial (Cheritra freja evansi) Siem Reap.jpg",
+    "credit": "Charles J. Sharp, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Golden_birdwing_%28Troides_aeacus_aeacus%29_female_Siem_Reap.jpg/960px-Golden_birdwing_%28Troides_aeacus_aeacus%29_female_Siem_Reap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGolden_birdwing_(Troides_aeacus_aeacus)_female_Siem_Reap.jpg",
+    "title": "Golden birdwing (Troides aeacus aeacus) female Siem Reap.jpg",
+    "credit": "Charles J. Sharp, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Siem_Reap_.-_Danse_Khmer_%28Cambodge%29.jpg/960px-Siem_Reap_.-_Danse_Khmer_%28Cambodge%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASiem_Reap_.-_Danse_Khmer_(Cambodge).jpg",
+    "title": "Siem Reap .- Danse Khmer (Cambodge).jpg",
+    "credit": "Pierre André Leclercq, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_female_at_nest_Siem_Reap.jpg/960px-Asian_golden_weaver_%28Ploceus_hypoxanthus_chryseus%29_female_at_nest_Siem_Reap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAsian_golden_weaver_(Ploceus_hypoxanthus_chryseus)_female_at_nest_Siem_Reap.jpg",
+    "title": "Asian golden weaver (Ploceus hypoxanthus chryseus) female at nest Siem Reap.jpg",
+    "credit": "Charles J. Sharp, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Preah_Pithu_T_Monks_-_Siem_Reap.jpg/960px-Preah_Pithu_T_Monks_-_Siem_Reap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APreah_Pithu_T_Monks_-_Siem_Reap.jpg",
+    "title": "Preah Pithu T Monks - Siem Reap.jpg",
+    "credit": "JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Tonle_Sap_Siem_Reap_Cambodia_Residential-boat-01.jpg/960px-Tonle_Sap_Siem_Reap_Cambodia_Residential-boat-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATonle_Sap_Siem_Reap_Cambodia_Residential-boat-01.jpg",
+    "title": "Tonle Sap Siem Reap Cambodia Residential-boat-01.jpg",
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0 via Wikimedia Commons"
+   }
+  ],
+  "kampot": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2016_Kampot%2C_Hotel_Auberge_du_Soleil_%2801%29.jpg/960px-2016_Kampot%2C_Hotel_Auberge_du_Soleil_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Hotel_Auberge_du_Soleil_(01).jpg",
+    "title": "2016 Kampot, Hotel Auberge du Soleil (01).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2806%29.jpg/960px-2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2806%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Muzeum_Prowincji_Kampot_(06).jpg",
+    "title": "2016 Kampot, Muzeum Prowincji Kampot (06).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2805%29.jpg/960px-2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Muzeum_Prowincji_Kampot_(05).jpg",
+    "title": "2016 Kampot, Muzeum Prowincji Kampot (05).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_%2803%29.jpg/960px-2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_%2803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_(03).jpg",
+    "title": "2016 Kampot, Narodowy Bank Kambodży - oddział w Kampot (03).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2807%29.jpg/960px-2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2807%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Muzeum_Prowincji_Kampot_(07).jpg",
+    "title": "2016 Kampot, Muzeum Prowincji Kampot (07).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_%2801%29.jpg/960px-2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Narodowy_Bank_Kambod%C5%BCy_-_oddzia%C5%82_w_Kampot_(01).jpg",
+    "title": "2016 Kampot, Narodowy Bank Kambodży - oddział w Kampot (01).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2811%29.jpg/960px-2016_Kampot%2C_Muzeum_Prowincji_Kampot_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Muzeum_Prowincji_Kampot_(11).jpg",
+    "title": "2016 Kampot, Muzeum Prowincji Kampot (11).jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "kep": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Fishing_Boat_off_Kep%2C_Cambodia.jpg/960px-Fishing_Boat_off_Kep%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFishing_Boat_off_Kep%2C_Cambodia.jpg",
+    "title": "Fishing Boat off Kep, Cambodia.jpg",
+    "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/06-Kep_Crab_Market_Cambodia-nX-13.jpg/960px-06-Kep_Crab_Market_Cambodia-nX-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A06-Kep_Crab_Market_Cambodia-nX-13.jpg",
+    "title": "06-Kep Crab Market Cambodia-nX-13.jpg",
+    "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Salt_fields_in_Kep_Province_%2850447129562%29.jpg/960px-Salt_fields_in_Kep_Province_%2850447129562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASalt_fields_in_Kep_Province_(50447129562).jpg",
+    "title": "Salt fields in Kep Province (50447129562).jpg",
+    "credit": "Nina R from Africa, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/06-Kep_Crab_Market_Cambodia-nX-12.jpg/960px-06-Kep_Crab_Market_Cambodia-nX-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A06-Kep_Crab_Market_Cambodia-nX-12.jpg",
+    "title": "06-Kep Crab Market Cambodia-nX-12.jpg",
+    "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/06-Kep_Crab_Market_Cambodia-nX-7.jpg/960px-06-Kep_Crab_Market_Cambodia-nX-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A06-Kep_Crab_Market_Cambodia-nX-7.jpg",
+    "title": "06-Kep Crab Market Cambodia-nX-7.jpg",
+    "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/06-Kep_Crab_Market_Cambodia-nX-15.jpg/960px-06-Kep_Crab_Market_Cambodia-nX-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A06-Kep_Crab_Market_Cambodia-nX-15.jpg",
+    "title": "06-Kep Crab Market Cambodia-nX-15.jpg",
+    "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/06-Kep_Crab_Market_Cambodia-nX-14.jpg/960px-06-Kep_Crab_Market_Cambodia-nX-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A06-Kep_Crab_Market_Cambodia-nX-14.jpg",
+    "title": "06-Kep Crab Market Cambodia-nX-14.jpg",
+    "credit": "PsamatheM, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "koh-rong": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Koh_Rong_Sanloem_estuary.jpg/960px-Koh_Rong_Sanloem_estuary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AKoh_Rong_Sanloem_estuary.jpg",
+    "title": "Koh Rong Sanloem estuary.jpg",
+    "credit": "Wikirictor, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cambodia_island_paradise_koh_rong_sanloem.jpg/960px-Cambodia_island_paradise_koh_rong_sanloem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia_island_paradise_koh_rong_sanloem.jpg",
+    "title": "Cambodia island paradise koh rong sanloem.jpg",
+    "credit": "Wikirictor, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Quarry_on_Koh_Rong_Sanloem_-_1.jpg/960px-Quarry_on_Koh_Rong_Sanloem_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AQuarry_on_Koh_Rong_Sanloem_-_1.jpg",
+    "title": "Quarry on Koh Rong Sanloem - 1.jpg",
+    "credit": "Treehill, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Saracen_Bay_panoramic_view%2C_Koh_Rong_Sanloem%2C_Cambodia%2C_June_2014.jpg/960px-Saracen_Bay_panoramic_view%2C_Koh_Rong_Sanloem%2C_Cambodia%2C_June_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASaracen_Bay_panoramic_view%2C_Koh_Rong_Sanloem%2C_Cambodia%2C_June_2014.jpg",
+    "title": "Saracen Bay panoramic view, Koh Rong Sanloem, Cambodia, June 2014.jpg",
+    "credit": "Wikirictor, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Quarry_on_Koh_Rong_Sanloem_-_2.jpg/960px-Quarry_on_Koh_Rong_Sanloem_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AQuarry_on_Koh_Rong_Sanloem_-_2.jpg",
+    "title": "Quarry on Koh Rong Sanloem - 2.jpg",
+    "credit": "Treehill, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Koh_Rong_Sanloem_beach_tree_house.jpg/960px-Koh_Rong_Sanloem_beach_tree_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AKoh_Rong_Sanloem_beach_tree_house.jpg",
+    "title": "Koh Rong Sanloem beach tree house.jpg",
+    "credit": "Wikirictor, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Koh_Rong_Sanloem_seen_from_Sihanoukville.jpg/960px-Koh_Rong_Sanloem_seen_from_Sihanoukville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AKoh_Rong_Sanloem_seen_from_Sihanoukville.jpg",
+    "title": "Koh Rong Sanloem seen from Sihanoukville.jpg",
+    "credit": "Christophe95, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "battambang": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Bah%C3%A1%27%C3%AD_House_of_Worship%2C_Battambang.jpg/960px-Bah%C3%A1%27%C3%AD_House_of_Worship%2C_Battambang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABah%C3%A1'%C3%AD_House_of_Worship%2C_Battambang.jpg",
+    "title": "Bahá'í House of Worship, Battambang.jpg",
+    "credit": "Minh-Tam VO, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/National_Highway_5_Road_Sign_in_Battambang_Province%2C_Cambodia_%28December_2012%29.jpg/960px-National_Highway_5_Road_Sign_in_Battambang_Province%2C_Cambodia_%28December_2012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ANational_Highway_5_Road_Sign_in_Battambang_Province%2C_Cambodia_(December_2012).jpg",
+    "title": "National Highway 5 Road Sign in Battambang Province, Cambodia (December 2012).jpg",
+    "credit": "eric yeargan, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_01.jpg/960px-Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_01.jpg",
+    "title": "Cambodia Kun Khmer Battambang 2006 Ian Taylor 01.jpg",
+    "credit": "Ian Taylor, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rice_wine_production%2C_Battambang%2C_Cambodia_2012.jpg/960px-Rice_wine_production%2C_Battambang%2C_Cambodia_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARice_wine_production%2C_Battambang%2C_Cambodia_2012.jpg",
+    "title": "Rice wine production, Battambang, Cambodia 2012.jpg",
+    "credit": "Cristina Bejarano, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Cambodia_Battambang_Dec_2010_%2812112936126%29.jpg/960px-Cambodia_Battambang_Dec_2010_%2812112936126%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia_Battambang_Dec_2010_(12112936126).jpg",
+    "title": "Cambodia Battambang Dec 2010 (12112936126).jpg",
+    "credit": "Michael Wilson/DFAT, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Krong_Battambang%2C_Cambodia_-_panoramio.jpg/960px-Krong_Battambang%2C_Cambodia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AKrong_Battambang%2C_Cambodia_-_panoramio.jpg",
+    "title": "Krong Battambang, Cambodia - panoramio.jpg",
+    "credit": "Eng Bunchan, CC BY 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_7.jpg/960px-Cambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia_Kun_Khmer_Battambang_2006_Ian_Taylor_7.jpg",
+    "title": "Cambodia Kun Khmer Battambang 2006 Ian Taylor 7.jpg",
+    "credit": "Ian Taylor, CC BY 4.0 via Wikimedia Commons"
+   }
+  ],
+  "sihanoukville": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cambodia._Water_buffaloes.jpg/960px-Cambodia._Water_buffaloes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia._Water_buffaloes.jpg",
+    "title": "Cambodia. Water buffaloes.jpg",
+    "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Cambodia_-_Sihanoukville.jpg/960px-Cambodia_-_Sihanoukville.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia_-_Sihanoukville.jpg",
+    "title": "Cambodia - Sihanoukville.jpg",
+    "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Cambodia_-_Sihanoukville_Autonomous_Port.jpg/960px-Cambodia_-_Sihanoukville_Autonomous_Port.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia_-_Sihanoukville_Autonomous_Port.jpg",
+    "title": "Cambodia - Sihanoukville Autonomous Port.jpg",
+    "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Cambodia._Nature_-_Sihanoukville_Province.jpg/960px-Cambodia._Nature_-_Sihanoukville_Province.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia._Nature_-_Sihanoukville_Province.jpg",
+    "title": "Cambodia. Nature - Sihanoukville Province.jpg",
+    "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sihanoukville._Boat_on_the_sandy_coast.jpg/960px-Sihanoukville._Boat_on_the_sandy_coast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASihanoukville._Boat_on_the_sandy_coast.jpg",
+    "title": "Sihanoukville. Boat on the sandy coast.jpg",
+    "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cambodia%2C_Sihanoukville._2014_year.jpg/960px-Cambodia%2C_Sihanoukville._2014_year.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACambodia%2C_Sihanoukville._2014_year.jpg",
+    "title": "Cambodia, Sihanoukville. 2014 year.jpg",
+    "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Sihanoukville_Autonomous_Port_-_Cambodia.jpg/960px-Sihanoukville_Autonomous_Port_-_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASihanoukville_Autonomous_Port_-_Cambodia.jpg",
+    "title": "Sihanoukville Autonomous Port - Cambodia.jpg",
+    "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "kratie": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/20171123_Sunset_over_Mekong_Kratie_3996_DxO.jpg/960px-20171123_Sunset_over_Mekong_Kratie_3996_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A20171123_Sunset_over_Mekong_Kratie_3996_DxO.jpg",
+    "title": "20171123 Sunset over Mekong Kratie 3996 DxO.jpg",
+    "credit": "Jakub Hałun, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/School_in_Kratie%2C_Cambodia.jpg/960px-School_in_Kratie%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASchool_in_Kratie%2C_Cambodia.jpg",
+    "title": "School in Kratie, Cambodia.jpg",
+    "credit": "Pamputt, CC0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Kratie%2C_Cambodia._39.jpg/960px-Kratie%2C_Cambodia._39.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AKratie%2C_Cambodia._39.jpg",
+    "title": "Kratie, Cambodia. 39.jpg",
+    "credit": "James Antrobus, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Sculptures_of_Schoolchildren_through_Gate_-_Kratie_-_Cambodia_%2848403231021%29.jpg/960px-Sculptures_of_Schoolchildren_through_Gate_-_Kratie_-_Cambodia_%2848403231021%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASculptures_of_Schoolchildren_through_Gate_-_Kratie_-_Cambodia_(48403231021).jpg",
+    "title": "Sculptures of Schoolchildren through Gate - Kratie - Cambodia (48403231021).jpg",
+    "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Architectural_Detail_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_02_%2848378633856%29.jpg/960px-Architectural_Detail_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_02_%2848378633856%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AArchitectural_Detail_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_-_02_(48378633856).jpg",
+    "title": "Architectural Detail - Koh Trong Island - Mekong River - Kratie - Cambodia - 02 (48378633856).jpg",
+    "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Facade_of_Police_Station_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_%2848393107767%29.jpg/960px-Facade_of_Police_Station_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_%2848393107767%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFacade_of_Police_Station_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_(48393107767).jpg",
+    "title": "Facade of Police Station - Koh Trong Island - Mekong River - Kratie - Cambodia (48393107767).jpg",
+    "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Still_Life_with_Sunhat_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_%2848392965661%29.jpg/960px-Still_Life_with_Sunhat_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_%2848392965661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AStill_Life_with_Sunhat_-_Koh_Trong_Island_-_Mekong_River_-_Kratie_-_Cambodia_(48392965661).jpg",
+    "title": "Still Life with Sunhat - Koh Trong Island - Mekong River - Kratie - Cambodia (48392965661).jpg",
+    "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0 via Wikimedia Commons"
+   }
+  ],
+  "mondulkiri": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Trockenreisfeld_In_der_Provinz_Mondulkiri%2C_Kambodscha.jpg/960px-Trockenreisfeld_In_der_Provinz_Mondulkiri%2C_Kambodscha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATrockenreisfeld_In_der_Provinz_Mondulkiri%2C_Kambodscha.jpg",
+    "title": "Trockenreisfeld In der Provinz Mondulkiri, Kambodscha.jpg",
+    "credit": "Myrmux, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mondulkiri_province_Northeastern_Cambodia.jpg/960px-Mondulkiri_province_Northeastern_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMondulkiri_province_Northeastern_Cambodia.jpg",
+    "title": "Mondulkiri province Northeastern Cambodia.jpg",
+    "credit": "Wikirictor, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sen_Monorom%2C_Mondulkiri%2C_Cambodia.jpg/960px-Sen_Monorom%2C_Mondulkiri%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASen_Monorom%2C_Mondulkiri%2C_Cambodia.jpg",
+    "title": "Sen Monorom, Mondulkiri, Cambodia.jpg",
+    "credit": "Dtfman, CC0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Family%2C_Mondulkiri%2C_Cambodia.jpg/960px-Family%2C_Mondulkiri%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFamily%2C_Mondulkiri%2C_Cambodia.jpg",
+    "title": "Family, Mondulkiri, Cambodia.jpg",
+    "credit": "Asteiner, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Tourists_at_Bou_Sra_Waterfall%2C_Mondulkiri%2C_Cambodia.jpg/960px-Tourists_at_Bou_Sra_Waterfall%2C_Mondulkiri%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATourists_at_Bou_Sra_Waterfall%2C_Mondulkiri%2C_Cambodia.jpg",
+    "title": "Tourists at Bou Sra Waterfall, Mondulkiri, Cambodia.jpg",
+    "credit": "Dtfman, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Elephant_conservation_and_indigenous_experiences_in_Cambodia_Project.jpg/960px-Elephant_conservation_and_indigenous_experiences_in_Cambodia_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AElephant_conservation_and_indigenous_experiences_in_Cambodia_Project.jpg",
+    "title": "Elephant conservation and indigenous experiences in Cambodia Project.jpg",
+    "credit": "Peoumono, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Chrey_Thom_Waterfall_Mondulkiri.jpg/960px-Chrey_Thom_Waterfall_Mondulkiri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AChrey_Thom_Waterfall_Mondulkiri.jpg",
+    "title": "Chrey Thom Waterfall Mondulkiri.jpg",
+    "credit": "wikirictor, Public domain via Wikimedia Commons"
+   }
+  ],
+  "koh-kong": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2015_0319_174425_KohKongIsland_Strandidylle.jpg/960px-2015_0319_174425_KohKongIsland_Strandidylle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2015_0319_174425_KohKongIsland_Strandidylle.jpg",
+    "title": "2015 0319 174425 KohKongIsland Strandidylle.jpg",
+    "credit": "Christiane Bender, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Koh_Kong_mangrove_forest.jpg/960px-Koh_Kong_mangrove_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AKoh_Kong_mangrove_forest.jpg",
+    "title": "Koh Kong mangrove forest.jpg",
+    "credit": "Wikirictor, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Rubber_plantation_Cambodia_2014.jpg/960px-Rubber_plantation_Cambodia_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARubber_plantation_Cambodia_2014.jpg",
+    "title": "Rubber plantation Cambodia 2014.jpg",
+    "credit": "Wikirictor, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Tatai_River%2C_Koh_Kong.jpg/960px-Tatai_River%2C_Koh_Kong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATatai_River%2C_Koh_Kong.jpg",
+    "title": "Tatai River, Koh Kong.jpg",
+    "credit": "Dnrallis, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Boat_In_Sunset_%28205709807%29.jpeg/960px-Boat_In_Sunset_%28205709807%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABoat_In_Sunset_(205709807).jpeg",
+    "title": "Boat In Sunset (205709807).jpeg",
+    "credit": "Reinhard Onasch, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Stonebeach_-_panoramio.jpg/960px-Stonebeach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AStonebeach_-_panoramio.jpg",
+    "title": "Stonebeach - panoramio.jpg",
+    "credit": "schämpu, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Carte_Cambodge_et_Siam_Itineraires_de_Auguste_Pavie_1880-1884.jpg/960px-Carte_Cambodge_et_Siam_Itineraires_de_Auguste_Pavie_1880-1884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACarte_Cambodge_et_Siam_Itineraires_de_Auguste_Pavie_1880-1884.jpg",
+    "title": "Carte Cambodge et Siam Itineraires de Auguste Pavie 1880-1884.jpg",
+    "credit": "Auguste Jean-Marie Pavie (1847 - 1925), Public domain via Wikimedia Commons"
+   }
+  ],
+  "bangkok": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Bangkok_skytrain_sunset.jpg/960px-Bangkok_skytrain_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABangkok_skytrain_sunset.jpg",
+    "title": "Bangkok skytrain sunset.jpg",
+    "credit": "User:Diliff, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg/960px-Wat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AWat_Pariwat_Ratchasongkram_ubosot_Bangkok_Thailand_by_Don_Ramey_Logan.jpg",
+    "title": "Wat Pariwat Ratchasongkram ubosot Bangkok Thailand by Don Ramey Logan.jpg",
+    "credit": "Don Ramey Logan, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg/960px-Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg",
+    "title": "Bangkok - Rama VIII Bridge at sunrise Jan 2024.jpg",
+    "credit": "Dominic Nelson, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Bangkok_-_Santichaiprakarn_Throne_Hall_at_golden_hour_Jan_2024.jpg/960px-Bangkok_-_Santichaiprakarn_Throne_Hall_at_golden_hour_Jan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABangkok_-_Santichaiprakarn_Throne_Hall_at_golden_hour_Jan_2024.jpg",
+    "title": "Bangkok - Santichaiprakarn Throne Hall at golden hour Jan 2024.jpg",
+    "credit": "Dominic Nelson, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg/960px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATemplo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg",
+    "title": "Templo Wat Arun, Bangkok, Tailandia, 2013-08-22, DD 30.jpg",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg/960px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATemplo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_37.jpg",
+    "title": "Templo Wat Arun, Bangkok, Tailandia, 2013-08-22, DD 37.jpg",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew%2C_Temple_of_Emerald_Buddha%2C_Bangkok%2C_Thailand.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew%2C_Temple_of_Emerald_Buddha%2C_Bangkok%2C_Thailand.jpg",
+    "title": "วัดพระศรีรัตนศาสดาราม วัดพระแก้ว กรุงเทพมหานคร - Wat Phra Kaew, Temple of Emerald Buddha, Bangkok, Thailand.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "singapore": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/1_singapore_national_day_parade_2011_fireworks.jpg/960px-1_singapore_national_day_parade_2011_fireworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A1_singapore_national_day_parade_2011_fireworks.jpg",
+    "title": "1 singapore national day parade 2011 fireworks.jpg",
+    "credit": "chensiyuan, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg/960px-Skylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASkylines_of_the_Central_Business_District%2C_Singapore_at_dusk.jpg",
+    "title": "Skylines of the Central Business District, Singapore at dusk.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg/960px-Aerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAerial_photographs_of_The_Fullerton_Hotel_of_Singapore_at_night.jpg",
+    "title": "Aerial photographs of The Fullerton Hotel of Singapore at night.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Marina_Bay_Singapore-3499.jpg/960px-Marina_Bay_Singapore-3499.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMarina_Bay_Singapore-3499.jpg",
+    "title": "Marina Bay Singapore-3499.jpg",
+    "credit": "Bijay Chaurasia, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg/960px-Singapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASingapore_Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg",
+    "title": "Singapore Flower-Dome-and-Cloud-Forest-in-The-Gardens-01.jpg",
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/At_Jewel_Changi%2C_Singapore_2023_36.jpg/960px-At_Jewel_Changi%2C_Singapore_2023_36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAt_Jewel_Changi%2C_Singapore_2023_36.jpg",
+    "title": "At Jewel Changi, Singapore 2023 36.jpg",
+    "credit": "Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge_in_the_evening.jpg/960px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge_in_the_evening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASkyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge_in_the_evening.jpg",
+    "title": "Skyline of the Central Business District of Singapore with Esplanade Bridge in the evening.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "kuala-lumpur": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg/960px-Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AButorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_(1).jpg",
+    "title": "Butorides striata javanica @ Kuala Lumpur, Malaysia (1).jpg",
+    "credit": "GerifalteDelSabana, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Passer_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg/960px-Passer_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APasser_montanus_malaccensis_%40_Kuala_Lumpur%2C_Malaysia_(1).jpg",
+    "title": "Passer montanus malaccensis @ Kuala Lumpur, Malaysia (1).jpg",
+    "credit": "Peter P. Othagoer, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%283%29.jpg/960px-Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AButorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_(3).jpg",
+    "title": "Butorides striata javanica @ Kuala Lumpur, Malaysia (3).jpg",
+    "credit": "GerifalteDelSabana, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%282%29.jpg/960px-Butorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AButorides_striata_javanica_%40_Kuala_Lumpur%2C_Malaysia_(2).jpg",
+    "title": "Butorides striata javanica @ Kuala Lumpur, Malaysia (2).jpg",
+    "credit": "GerifalteDelSabana, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Corvus_splendens_insolens_%40_Kuala_Lumpur_%282%29_alternate_crop.jpg/960px-Corvus_splendens_insolens_%40_Kuala_Lumpur_%282%29_alternate_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACorvus_splendens_insolens_%40_Kuala_Lumpur_(2)_alternate_crop.jpg",
+    "title": "Corvus splendens insolens @ Kuala Lumpur (2) alternate crop.jpg",
+    "credit": "GerifalteDelSabana, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Kuala_Lumpur_Malaysia_Tropical-Swallowtail-Moth-01.jpg/960px-Kuala_Lumpur_Malaysia_Tropical-Swallowtail-Moth-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AKuala_Lumpur_Malaysia_Tropical-Swallowtail-Moth-01.jpg",
+    "title": "Kuala Lumpur Malaysia Tropical-Swallowtail-Moth-01.jpg",
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/2016_Kuala_Lumpur%2C_Narodowe_Muzeum_W%C5%82%C3%B3kiennictwa.jpg/960px-2016_Kuala_Lumpur%2C_Narodowe_Muzeum_W%C5%82%C3%B3kiennictwa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kuala_Lumpur%2C_Narodowe_Muzeum_W%C5%82%C3%B3kiennictwa.jpg",
+    "title": "2016 Kuala Lumpur, Narodowe Muzeum Włókiennictwa.jpg",
+    "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "ho-chi-minh-city": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Adarga_%28Nymphaea_alba%29%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg/960px-Adarga_%28Nymphaea_alba%29%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAdarga_(Nymphaea_alba)%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.jpg",
+    "title": "Adarga (Nymphaea alba), Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.jpg",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/960px-Puente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APuente_Mong%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG",
+    "title": "Puente Mong, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.JPG",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Lib%C3%A9lula_%28Orthetrum_sabina%29_sobre_un_Gymnocalicium_mihanowichii%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.jpg/960px-Lib%C3%A9lula_%28Orthetrum_sabina%29_sobre_un_Gymnocalicium_mihanowichii%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALib%C3%A9lula_(Orthetrum_sabina)_sobre_un_Gymnocalicium_mihanowichii%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.jpg",
+    "title": "Libélula (Orthetrum sabina) sobre un Gymnocalicium mihanowichii, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 02.jpg",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG/960px-Vista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AVista_de_Ciudad_Ho_Chi_Minh_desde_Bitexco_Financial_Tower%2C_Vietnam%2C_2013-08-14%2C_DD_13.JPG",
+    "title": "Vista de Ciudad Ho Chi Minh desde Bitexco Financial Tower, Vietnam, 2013-08-14, DD 13.JPG",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pit%C3%B3n_de_la_India_%28Python_molurus%29%2C_Zoo_de_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_08.JPG/960px-Pit%C3%B3n_de_la_India_%28Python_molurus%29%2C_Zoo_de_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APit%C3%B3n_de_la_India_(Python_molurus)%2C_Zoo_de_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_08.JPG",
+    "title": "Pitón de la India (Python molurus), Zoo de Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 08.JPG",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Hongqi_H9%2C_Ho_Chi_Minh_City_%28LRM_20230826_155017%29.jpg/960px-Hongqi_H9%2C_Ho_Chi_Minh_City_%28LRM_20230826_155017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AHongqi_H9%2C_Ho_Chi_Minh_City_(LRM_20230826_155017).jpg",
+    "title": "Hongqi H9, Ho Chi Minh City (LRM 20230826 155017).jpg",
+    "credit": "MB-one, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%C3%93pera%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.JPG/960px-%C3%93pera%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3A%C3%93pera%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_02.JPG",
+    "title": "Ópera, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 02.JPG",
+    "credit": "Diego Delso, CC BY-SA 3.0 via Wikimedia Commons"
+   }
+  ],
+  "hanoi": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Hanoi_Skyline_-_NKS.jpg/960px-Hanoi_Skyline_-_NKS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AHanoi_Skyline_-_NKS.jpg",
+    "title": "Hanoi Skyline - NKS.jpg",
+    "credit": "NKSTTSSHNVN, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg/960px-Hanoi_skyline_with_Ba_Vi_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AHanoi_skyline_with_Ba_Vi_Mountain.jpg",
+    "title": "Hanoi skyline with Ba Vi Mountain.jpg",
+    "credit": "Quangnlnhe182394, CC0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Hanoi_Skyline.jpg/960px-Hanoi_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AHanoi_Skyline.jpg",
+    "title": "Hanoi Skyline.jpg",
+    "credit": "Minhvuong308hn, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hanoi_skyline_%2822813421939%29.jpg/960px-Hanoi_skyline_%2822813421939%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AHanoi_skyline_(22813421939).jpg",
+    "title": "Hanoi skyline (22813421939).jpg",
+    "credit": "cloud.shepherd, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Hanoi_skyline_at_night.jpg/960px-Hanoi_skyline_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AHanoi_skyline_at_night.jpg",
+    "title": "Hanoi skyline at night.jpg",
+    "credit": "Ntml4507, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg/960px-Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AStreet_seller_of_fingered_citrons_in_Old_Town_of_Hanoi%2C_20240204_1335_5772.jpg",
+    "title": "Street seller of fingered citrons in Old Town of Hanoi, 20240204 1335 5772.jpg",
+    "credit": "Jakub Hałun, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/H%C3%A0ng_D%E1%BA%A7u_Street%2C_Hanoi%2C_20240204_1340_5780.jpg/960px-H%C3%A0ng_D%E1%BA%A7u_Street%2C_Hanoi%2C_20240204_1340_5780.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AH%C3%A0ng_D%E1%BA%A7u_Street%2C_Hanoi%2C_20240204_1340_5780.jpg",
+    "title": "Hàng Dầu Street, Hanoi, 20240204 1340 5780.jpg",
+    "credit": "Jakub Hałun, CC BY 4.0 via Wikimedia Commons"
+   }
+  ],
+  "bali": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg/960px-Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg",
+    "title": "Sunset, Kuta, Bali, Indonesia, 20220825 1755 0879.jpg",
+    "credit": "Jakub Hałun, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Bali%2C_Extinct_caldera_slopes%2C_Forest%2C_East_Bali%2C_Indonesia.jpg/960px-Bali%2C_Extinct_caldera_slopes%2C_Forest%2C_East_Bali%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABali%2C_Extinct_caldera_slopes%2C_Forest%2C_East_Bali%2C_Indonesia.jpg",
+    "title": "Bali, Extinct caldera slopes, Forest, East Bali, Indonesia.jpg",
+    "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Bali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg/960px-Bali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg",
+    "title": "Bali, Rice fields, Rice terraces in East Bali, Indonesia.jpg",
+    "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bali%2C_Forest%2C_Trees%2C_East_Bali%2C_Indonesia.jpg/960px-Bali%2C_Forest%2C_Trees%2C_East_Bali%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABali%2C_Forest%2C_Trees%2C_East_Bali%2C_Indonesia.jpg",
+    "title": "Bali, Forest, Trees, East Bali, Indonesia.jpg",
+    "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Mount_Lempuyang%2C_Volcanic_landform%2C_Bali%2C_Indonesia.jpg/960px-Mount_Lempuyang%2C_Volcanic_landform%2C_Bali%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMount_Lempuyang%2C_Volcanic_landform%2C_Bali%2C_Indonesia.jpg",
+    "title": "Mount Lempuyang, Volcanic landform, Bali, Indonesia.jpg",
+    "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bali%2C_Rice_fields_and_forest%2C_East_Bali%2C_Indonesia.jpg/960px-Bali%2C_Rice_fields_and_forest%2C_East_Bali%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABali%2C_Rice_fields_and_forest%2C_East_Bali%2C_Indonesia.jpg",
+    "title": "Bali, Rice fields and forest, East Bali, Indonesia.jpg",
+    "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bali%2C_Rice_fields_in_the_forest%2C_East_Bali%2C_Indonesia.jpg/960px-Bali%2C_Rice_fields_in_the_forest%2C_East_Bali%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABali%2C_Rice_fields_in_the_forest%2C_East_Bali%2C_Indonesia.jpg",
+    "title": "Bali, Rice fields in the forest, East Bali, Indonesia.jpg",
+    "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+   }
+  ],
+  "tokyo": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/960px-Minato_City%2C_Tokyo%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMinato_City%2C_Tokyo%2C_Japan.jpg",
+    "title": "Minato City, Tokyo, Japan.jpg",
+    "credit": "David Kernan, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Exterior_view_of_the_illuminated_facade_of_Maison_Herm%C3%A8s%2C_Ginza%2C_Tokyo%2C_Japan.jpg/960px-Exterior_view_of_the_illuminated_facade_of_Maison_Herm%C3%A8s%2C_Ginza%2C_Tokyo%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AExterior_view_of_the_illuminated_facade_of_Maison_Herm%C3%A8s%2C_Ginza%2C_Tokyo%2C_Japan.jpg",
+    "title": "Exterior view of the illuminated facade of Maison Hermès, Ginza, Tokyo, Japan.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/960px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+    "title": "Tokyo Shibuya Scramble Crossing 2018-10-09.jpg",
+    "credit": "Benh LIEU SONG (Flickr), CC BY-SA 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg/960px-Minato_City%2C_Tokyo%2C_Japan_%28Night%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMinato_City%2C_Tokyo%2C_Japan_(Night).jpg",
+    "title": "Minato City, Tokyo, Japan (Night).jpg",
+    "credit": "David Kernan, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tokyo_Tower%2C_Minato_City.jpg/960px-Tokyo_Tower%2C_Minato_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATokyo_Tower%2C_Minato_City.jpg",
+    "title": "Tokyo Tower, Minato City.jpg",
+    "credit": "David Kernan, CC BY 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg/960px-Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AWorm's-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg",
+    "title": "Worm's-eye view of Tokyo Skytree with vertical symmetry impression, a sunny day, in Japan.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Shinjuku_Gyoen_National_Garden_and_NTT_DoCoMo_Yoyogi_Building%2C_Tokyo%2C_Japan.jpg/960px-Shinjuku_Gyoen_National_Garden_and_NTT_DoCoMo_Yoyogi_Building%2C_Tokyo%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AShinjuku_Gyoen_National_Garden_and_NTT_DoCoMo_Yoyogi_Building%2C_Tokyo%2C_Japan.jpg",
+    "title": "Shinjuku Gyoen National Garden and NTT DoCoMo Yoyogi Building, Tokyo, Japan.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "seoul": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/960px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg",
+    "title": "Gyedong-gil street with climbing plants at golden hour in Seoul South Korea.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg/960px-Interior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AInterior_view_of_the_main_hall_of_Bongeunsa_temple_in_Seoul_South_Korea.jpg",
+    "title": "Interior view of the main hall of Bongeunsa temple in Seoul South Korea.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Skyline_view_from_Seoul_City_%28South_Korea%29.jpg/960px-Skyline_view_from_Seoul_City_%28South_Korea%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASkyline_view_from_Seoul_City_(South_Korea).jpg",
+    "title": "Skyline view from Seoul City (South Korea).jpg",
+    "credit": "Flickr - Laurie Nevay\n\nhttps://www.flickr.com/photos/laurien, CC BY-SA 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Octopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg/960px-Octopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AOctopus_as_food_at_Noryangjin_Fisheries_Wholesale_Market_in_Seoul_South_Korea.jpg",
+    "title": "Octopus as food at Noryangjin Fisheries Wholesale Market in Seoul South Korea.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/A_Rave_in_Seoul%2C_South_Korea_in_2001.jpg/960px-A_Rave_in_Seoul%2C_South_Korea_in_2001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AA_Rave_in_Seoul%2C_South_Korea_in_2001.jpg",
+    "title": "A Rave in Seoul, South Korea in 2001.jpg",
+    "credit": "Matthew T Rader, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Yongsan%2C_Seoul%2C_South_Korea_living_room_2023.jpg/960px-Yongsan%2C_Seoul%2C_South_Korea_living_room_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AYongsan%2C_Seoul%2C_South_Korea_living_room_2023.jpg",
+    "title": "Yongsan, Seoul, South Korea living room 2023.jpg",
+    "credit": "Sharon Hahn Darlin, CC BY 2.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Injeongjeon_-_Seoul%2C_South_Korea.jpg/960px-Injeongjeon_-_Seoul%2C_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AInjeongjeon_-_Seoul%2C_South_Korea.jpg",
+    "title": "Injeongjeon - Seoul, South Korea.jpg",
+    "credit": "Nina R, CC BY 2.0 via Wikimedia Commons"
+   }
+  ],
+  "luang-prabang": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACanopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "title": "Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg/960px-Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AReception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+    "title": "Reception lounge at Amantaka luxury Resort & Hotel at blue hour in Luang Prabang Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Panoramic_view_of_Mount_Phou_Si_seen_from_Wat_Chomphet_in_Luang_Prabang_Laos.jpg/960px-Panoramic_view_of_Mount_Phou_Si_seen_from_Wat_Chomphet_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APanoramic_view_of_Mount_Phou_Si_seen_from_Wat_Chomphet_in_Luang_Prabang_Laos.jpg",
+    "title": "Panoramic view of Mount Phou Si seen from Wat Chomphet in Luang Prabang Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Restaurant_room_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Restaurant_room_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARestaurant_room_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "title": "Restaurant room of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Praying_bhikkhus_inside_Wat_Mai_Suwannaphumaham_in_Luang_Prabang_Laos.jpg/960px-Praying_bhikkhus_inside_Wat_Mai_Suwannaphumaham_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APraying_bhikkhus_inside_Wat_Mai_Suwannaphumaham_in_Luang_Prabang_Laos.jpg",
+    "title": "Praying bhikkhus inside Wat Mai Suwannaphumaham in Luang Prabang Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg/960px-Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg",
+    "title": "Pirogue and boat on the Mekong with colorful sky at sunset in Luang Prabang Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Interior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/960px-Interior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AInterior_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "title": "Interior of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+    "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ],
+  "chiang-mai": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chiang-Mai_Thailand_Buddhist-Manuscript-Library-and-Museum-01.jpg/960px-Chiang-Mai_Thailand_Buddhist-Manuscript-Library-and-Museum-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AChiang-Mai_Thailand_Buddhist-Manuscript-Library-and-Museum-01.jpg",
+    "title": "Chiang-Mai Thailand Buddhist-Manuscript-Library-and-Museum-01.jpg",
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Theretra_pallicosta_MHNT_CUT_2010_0_45_female_Chiang_Mai%2C_Thailand_dorsal.jpg/960px-Theretra_pallicosta_MHNT_CUT_2010_0_45_female_Chiang_Mai%2C_Thailand_dorsal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATheretra_pallicosta_MHNT_CUT_2010_0_45_female_Chiang_Mai%2C_Thailand_dorsal.jpg",
+    "title": "Theretra pallicosta MHNT CUT 2010 0 45 female Chiang Mai, Thailand dorsal.jpg",
+    "credit": "Didier Descouens, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Theretra_pallicosta_MHNT_CUT_2010_0_45_female_Chiang_Mai%2C_Thailand_ventral.jpg/960px-Theretra_pallicosta_MHNT_CUT_2010_0_45_female_Chiang_Mai%2C_Thailand_ventral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ATheretra_pallicosta_MHNT_CUT_2010_0_45_female_Chiang_Mai%2C_Thailand_ventral.jpg",
+    "title": "Theretra pallicosta MHNT CUT 2010 0 45 female Chiang Mai, Thailand ventral.jpg",
+    "credit": "Didier Descouens, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_ventral.jpg/960px-Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_ventral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAnambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_ventral.jpg",
+    "title": "Anambulyx elwesi MHNT CUT 2010 0 146 Chiang Mai, Thailand, male ventral.jpg",
+    "credit": "Didier Descouens, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_dorsal.jpg/960px-Anambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_dorsal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAnambulyx_elwesi_MHNT_CUT_2010_0_146_Chiang_Mai%2C_Thailand%2C_male_dorsal.jpg",
+    "title": "Anambulyx elwesi MHNT CUT 2010 0 146 Chiang Mai, Thailand, male dorsal.jpg",
+    "credit": "Didier Descouens, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cypa_decolor_MHNT_CUT_2010_0_219_Sanpatang_Chiang_Mai_Thailand_male_ventral.jpg/960px-Cypa_decolor_MHNT_CUT_2010_0_219_Sanpatang_Chiang_Mai_Thailand_male_ventral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ACypa_decolor_MHNT_CUT_2010_0_219_Sanpatang_Chiang_Mai_Thailand_male_ventral.jpg",
+    "title": "Cypa decolor MHNT CUT 2010 0 219 Sanpatang Chiang Mai Thailand male ventral.jpg",
+    "credit": "Didier Descouens, CC BY-SA 4.0 via Wikimedia Commons"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ambulyx_liturata_MHNT_CUT_2010_0_157_Mae_Taeng_Chiang_Mai_Thailand_ventral.jpg/960px-Ambulyx_liturata_MHNT_CUT_2010_0_157_Mae_Taeng_Chiang_Mai_Thailand_ventral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AAmbulyx_liturata_MHNT_CUT_2010_0_157_Mae_Taeng_Chiang_Mai_Thailand_ventral.jpg",
+    "title": "Ambulyx liturata MHNT CUT 2010 0 157 Mae Taeng Chiang Mai Thailand ventral.jpg",
+    "credit": "Didier Descouens, CC BY-SA 4.0 via Wikimedia Commons"
+   }
+  ]
+ },
+ "restaurants": {
+  "phnom-penh-bassac-lane-wine-cellar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Maid_cafe_at_Phnom_Penh.JPG/960px-Maid_cafe_at_Phnom_Penh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AMaid_cafe_at_Phnom_Penh.JPG",
+   "title": "Maid cafe at Phnom Penh.JPG",
+   "credit": "Tonbi ko, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "phnom-penh-riverside-amok-kitchen": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cambodian_salted_fish_and_ground_pork_omelette.jpg/960px-Cambodian_salted_fish_and_ground_pork_omelette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACambodian_salted_fish_and_ground_pork_omelette.jpg",
+   "title": "Cambodian salted fish and ground pork omelette.jpg",
+   "credit": "Anilakeo, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "phnom-penh-boeung-keng-kang-brunch-club": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/City_view_phnom_penh_from_monument_hotel_roof_top_restaurant.jpg/960px-City_view_phnom_penh_from_monument_hotel_roof_top_restaurant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACity_view_phnom_penh_from_monument_hotel_roof_top_restaurant.jpg",
+   "title": "City view phnom penh from monument hotel roof top restaurant.jpg",
+   "credit": "Jadoreus, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "phnom-penh-lakeside-noodle-house": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Street_food_restaurant_in_Phnom_Penh..JPG/960px-Street_food_restaurant_in_Phnom_Penh..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AStreet_food_restaurant_in_Phnom_Penh..JPG",
+   "title": "Street food restaurant in Phnom Penh..JPG",
+   "credit": "Rudolph.A.Furtado, CC0 via Wikimedia Commons"
+  },
+  "phnom-penh-num-pang-corner": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Cafe_Fresco_%283340809194%29.jpg/960px-Cafe_Fresco_%283340809194%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACafe_Fresco_(3340809194).jpg",
+   "title": "Cafe Fresco (3340809194).jpg",
+   "credit": "aseiff, CC BY 2.0 via Wikimedia Commons"
+  },
+  "phnom-penh-psar-kandal-grill": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Street_food_vendor_in_Cambodia.jpg/960px-Street_food_vendor_in_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AStreet_food_vendor_in_Cambodia.jpg",
+   "title": "Street food vendor in Cambodia.jpg",
+   "credit": "Oliver Spalt, CC BY 2.0 via Wikimedia Commons"
+  },
+  "siem-reap-old-market-lok-lak-house": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Siem_Reap_restaurant_%285862249201%29.jpg/960px-Siem_Reap_restaurant_%285862249201%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASiem_Reap_restaurant_(5862249201).jpg",
+   "title": "Siem Reap restaurant (5862249201).jpg",
+   "credit": "Fred Bigio from Marseille, france, CC BY 2.0 via Wikimedia Commons"
+  },
+  "siem-reap-temple-road-roastery": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Cafe_Central_%2810513155644%29.jpg/960px-Cafe_Central_%2810513155644%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACafe_Central_(10513155644).jpg",
+   "title": "Cafe Central (10513155644).jpg",
+   "credit": "Su--May from London, UK, CC BY 2.0 via Wikimedia Commons"
+  },
+  "siem-reap-kuy-teav-alley-stall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Siem_Reap_street_food_%2815932997329%29.jpg/960px-Siem_Reap_street_food_%2815932997329%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASiem_Reap_street_food_(15932997329).jpg",
+   "title": "Siem Reap street food (15932997329).jpg",
+   "credit": "yashima from Karlsruhe, Germany, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "kampot-old-market-morning-cafe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Cafe_wall_in_Kampot%2C_Cambodia%2C_features_Arn_Chorn-Pond%2C_Kong_Nay_and_Bob_Dylan_2017-03.jpg/960px-Cafe_wall_in_Kampot%2C_Cambodia%2C_features_Arn_Chorn-Pond%2C_Kong_Nay_and_Bob_Dylan_2017-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACafe_wall_in_Kampot%2C_Cambodia%2C_features_Arn_Chorn-Pond%2C_Kong_Nay_and_Bob_Dylan_2017-03.jpg",
+   "title": "Cafe wall in Kampot, Cambodia, features Arn Chorn-Pond, Kong Nay and Bob Dylan 2017-03.jpg",
+   "credit": "Acme66, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "siem-reap-apsara-dinner-pavilion": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Siem_Reap_old_market_%284%29.jpg/960px-Siem_Reap_old_market_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASiem_Reap_old_market_(4).jpg",
+   "title": "Siem Reap old market (4).jpg",
+   "credit": "Radosław Botev, CC BY 3.0 pl via Wikimedia Commons"
+  },
+  "kampot-bokor-view-bistro": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Baguettes_in_Kampot.jpg/960px-Baguettes_in_Kampot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABaguettes_in_Kampot.jpg",
+   "title": "Baguettes in Kampot.jpg",
+   "credit": "Mx. Granger, CC0 via Wikimedia Commons"
+  },
+  "kampot-riverbank-pepper-crab": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2016_Kampot%2C_Old_Market_Street%2C_Sklepy_i_restauracje.jpg/960px-2016_Kampot%2C_Old_Market_Street%2C_Sklepy_i_restauracje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3A2016_Kampot%2C_Old_Market_Street%2C_Sklepy_i_restauracje.jpg",
+   "title": "2016 Kampot, Old Market Street, Sklepy i restauracje.jpg",
+   "credit": "Marcin Konsek, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "kep-crab-shack-no-7": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Sugar_cane_juice_machine_in_Kep_01.jpg/960px-Sugar_cane_juice_machine_in_Kep_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASugar_cane_juice_machine_in_Kep_01.jpg",
+   "title": "Sugar cane juice machine in Kep 01.jpg",
+   "credit": "Mx. Granger, CC0 via Wikimedia Commons"
+  },
+  "battambang-riverside-pho-cafe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Sachko_lok_lak_-_beef_lok_lak_th%E1%BB%8Bt_b%C3%B2_l%C3%BAc_l%E1%BA%AFc_Khmer_food.jpg/960px-Sachko_lok_lak_-_beef_lok_lak_th%E1%BB%8Bt_b%C3%B2_l%C3%BAc_l%E1%BA%AFc_Khmer_food.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASachko_lok_lak_-_beef_lok_lak_th%E1%BB%8Bt_b%C3%B2_l%C3%BAc_l%E1%BA%AFc_Khmer_food.jpg",
+   "title": "Sachko lok lak - beef lok lak thịt bò lúc lắc Khmer food.jpg",
+   "credit": "Alexandersingh9, CC0 via Wikimedia Commons"
+  },
+  "koh-rong-pier-fish-grill": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Cambodia_08_-_034_-_insects_for_snacks_at_the_market_%283198811659%29.jpg/960px-Cambodia_08_-_034_-_insects_for_snacks_at_the_market_%283198811659%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACambodia_08_-_034_-_insects_for_snacks_at_the_market_(3198811659).jpg",
+   "title": "Cambodia 08 - 034 - insects for snacks at the market (3198811659).jpg",
+   "credit": "McKay Savage from London, UK, CC BY 2.0 via Wikimedia Commons"
+  },
+  "bangkok-yaowarat-night-stall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bangkok_street_food_vendor.jpg/960px-Bangkok_street_food_vendor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABangkok_street_food_vendor.jpg",
+   "title": "Bangkok street food vendor.jpg",
+   "credit": "David, Public domain via Wikimedia Commons"
+  },
+  "bangkok-chao-phraya-curry-table": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/A_fast_food_restaurant_in_Bangkok%2C_Thailand.jpg/960px-A_fast_food_restaurant_in_Bangkok%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AA_fast_food_restaurant_in_Bangkok%2C_Thailand.jpg",
+   "title": "A fast food restaurant in Bangkok, Thailand.jpg",
+   "credit": "Weldon Kennedy from London, UK, CC BY 2.0 via Wikimedia Commons"
+  },
+  "bangkok-sukhumvit-rooftop-kitchen": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bangkok_Street_Food.jpg/960px-Bangkok_Street_Food.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABangkok_Street_Food.jpg",
+   "title": "Bangkok Street Food.jpg",
+   "credit": "Radek Kucharski, CC BY 2.0 via Wikimedia Commons"
+  },
+  "singapore-chinatown-hawker-counter": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hill_Street_Tai_Hwa_Pork_Noodle.jpg/960px-Hill_Street_Tai_Hwa_Pork_Noodle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AHill_Street_Tai_Hwa_Pork_Noodle.jpg",
+   "title": "Hill Street Tai Hwa Pork Noodle.jpg",
+   "credit": "Ken Marshall from Absecon, New Jersey, USA, CC BY 2.0 via Wikimedia Commons"
+  },
+  "singapore-kampong-glam-kopi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Interior_of_the_lobby_coffee_and_drinks_at_The_Fullerton_Bay_Hotel_Singapore.jpg/960px-Interior_of_the_lobby_coffee_and_drinks_at_The_Fullerton_Bay_Hotel_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AInterior_of_the_lobby_coffee_and_drinks_at_The_Fullerton_Bay_Hotel_Singapore.jpg",
+   "title": "Interior of the lobby coffee and drinks at The Fullerton Bay Hotel Singapore.jpg",
+   "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "singapore-marina-seafood-pier": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Food_%E6%96%B0%E6%B5%B7%E5%B1%B1%E9%A4%90%E5%BB%B3%2C_%E9%9A%A8%E6%8B%8D%2C_%E6%96%B0%E5%8A%A0%E5%9D%A1%2C_Sin_Hoi_Sai_Seafood_Restaurant_Pte._Ltd%2C_Snapshot%2C_Singapore_%2823260484033%29.jpg/960px-Food_%E6%96%B0%E6%B5%B7%E5%B1%B1%E9%A4%90%E5%BB%B3%2C_%E9%9A%A8%E6%8B%8D%2C_%E6%96%B0%E5%8A%A0%E5%9D%A1%2C_Sin_Hoi_Sai_Seafood_Restaurant_Pte._Ltd%2C_Snapshot%2C_Singapore_%2823260484033%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AFood_%E6%96%B0%E6%B5%B7%E5%B1%B1%E9%A4%90%E5%BB%B3%2C_%E9%9A%A8%E6%8B%8D%2C_%E6%96%B0%E5%8A%A0%E5%9D%A1%2C_Sin_Hoi_Sai_Seafood_Restaurant_Pte._Ltd%2C_Snapshot%2C_Singapore_(23260484033).jpg",
+   "title": "Food 新海山餐廳, 隨拍, 新加坡, Sin Hoi Sai Seafood Restaurant Pte. Ltd, Snapshot, Singapore (23260484033).jpg",
+   "credit": "bryan... from Taipei, Taiwan, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "ho-chi-minh-city-district-1-banh-mi-window": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg/960px-B%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AB%C3%A1nh_tr%C3%A1ng_n%C6%B0%E1%BB%9Bng_TP._H%E1%BB%93_Ch%C3%AD_Minh_-_street_food_in_Ho_Chi_Minh_City%2C_Vietnam.jpg",
+   "title": "Bánh tráng nướng TP. Hồ Chí Minh - street food in Ho Chi Minh City, Vietnam.jpg",
+   "credit": "Light Write, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "hanoi-old-quarter-bun-cha": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Vietnamese_cuisine_food_%2838834614444%29.jpg/960px-Vietnamese_cuisine_food_%2838834614444%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AVietnamese_cuisine_food_(38834614444).jpg",
+   "title": "Vietnamese cuisine food (38834614444).jpg",
+   "credit": "dronepicr, CC BY 2.0 via Wikimedia Commons"
+  },
+  "ho-chi-minh-city-rooftop-pho-co": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Bui_Vien_Street%2C_Ho_Chi_Minh_City%2C_at_night%2C_2023_%2802%29.jpg/960px-Bui_Vien_Street%2C_Ho_Chi_Minh_City%2C_at_night%2C_2023_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABui_Vien_Street%2C_Ho_Chi_Minh_City%2C_at_night%2C_2023_(02).jpg",
+   "title": "Bui Vien Street, Ho Chi Minh City, at night, 2023 (02).jpg",
+   "credit": "Bahnfrend, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "hanoi-egg-coffee-corner": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cafe_96_-_Hoi_An_-_Vietnam.JPG/960px-Cafe_96_-_Hoi_An_-_Vietnam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ACafe_96_-_Hoi_An_-_Vietnam.JPG",
+   "title": "Cafe 96 - Hoi An - Vietnam.JPG",
+   "credit": "Adam Jones Adam63, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "bali-rice-terrace-cafe": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Beach_cafe%2C_Beach_bar%2C_Gili_Trawangan_%28island%29%2C_Indonesia.jpg/960px-Beach_cafe%2C_Beach_bar%2C_Gili_Trawangan_%28island%29%2C_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABeach_cafe%2C_Beach_bar%2C_Gili_Trawangan_(island)%2C_Indonesia.jpg",
+   "title": "Beach cafe, Beach bar, Gili Trawangan (island), Indonesia.jpg",
+   "credit": "Vyacheslav Argenberg, CC BY 4.0 via Wikimedia Commons"
+  },
+  "tokyo-asakusa-soba-counter": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Illuminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg/960px-Illuminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AIlluminated_facade_of_a_restaurant_serving_traditional_food_with_fresh_vegetables_in_Chiyoda%2C_Tokyo.jpg",
+   "title": "Illuminated facade of a restaurant serving traditional food with fresh vegetables in Chiyoda, Tokyo.jpg",
+   "credit": "Basile Morin, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "seoul-gwangjang-bindaetteok-stall": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Old_time_street_food_in_Seoul_Korea.JPG/960px-Old_time_street_food_in_Seoul_Korea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AOld_time_street_food_in_Seoul_Korea.JPG",
+   "title": "Old time street food in Seoul Korea.JPG",
+   "credit": "Kilroy238, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "tokyo-tsukiji-sushi-bar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Japanese_traditional_food_in_Takayama_%282%29.jpg/960px-Japanese_traditional_food_in_Takayama_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AJapanese_traditional_food_in_Takayama_(2).jpg",
+   "title": "Japanese traditional food in Takayama (2).jpg",
+   "credit": "Pierre André Leclercq, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "luang-prabang-mekong-sunset-lao-kitchen": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Lao_fried_eggplant.jpg/960px-Lao_fried_eggplant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ALao_fried_eggplant.jpg",
+   "title": "Lao fried eggplant.jpg",
+   "credit": "fabulousfabs, CC BY 2.0 via Wikimedia Commons"
+  },
+  "chiang-mai-old-city-khao-soi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg/960px-Street_Food_Stall%2C_Chiang_Mai%2C_Thailand_%287113967189%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AStreet_Food_Stall%2C_Chiang_Mai%2C_Thailand_(7113967189).jpg",
+   "title": "Street Food Stall, Chiang Mai, Thailand (7113967189).jpg",
+   "credit": "David McKelvey from Brisbane, Australia, CC BY 2.0 via Wikimedia Commons"
+  }
+ },
+ "hotels": {
+  "riverside-heritage-hotel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Le_mus%C3%A9e_national_du_Cambodge_%28Phnom_Penh%29_%286851359018%29.jpg/960px-Le_mus%C3%A9e_national_du_Cambodge_%28Phnom_Penh%29_%286851359018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ALe_mus%C3%A9e_national_du_Cambodge_(Phnom_Penh)_(6851359018).jpg",
+   "title": "Le musée national du Cambodge (Phnom Penh) (6851359018).jpg",
+   "credit": "Jean-Pierre Dalbéra from Paris, France, CC BY 2.0 via Wikimedia Commons"
+  },
+  "tonle-garden-guesthouse": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Sokha_Phnom_Penh_Hotel_in_the_Distance.jpg/960px-Sokha_Phnom_Penh_Hotel_in_the_Distance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASokha_Phnom_Penh_Hotel_in_the_Distance.jpg",
+   "title": "Sokha Phnom Penh Hotel in the Distance.jpg",
+   "credit": "Michael Coghlan from Adelaide, Australia, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "independence-grand": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sokha_Hotel_over_the_Tonl%C3%A9_Sap%2C_Phnom_Penh.jpg/960px-Sokha_Hotel_over_the_Tonl%C3%A9_Sap%2C_Phnom_Penh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASokha_Hotel_over_the_Tonl%C3%A9_Sap%2C_Phnom_Penh.jpg",
+   "title": "Sokha Hotel over the Tonlé Sap, Phnom Penh.jpg",
+   "credit": "Uhooep, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "backpackers-lounge-hostel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/PhnomPenhhotel.jpg/960px-PhnomPenhhotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3APhnomPenhhotel.jpg",
+   "title": "PhnomPenhhotel.jpg",
+   "credit": "https://www.flickr.com/photos/alex Alex], CC BY 2.0 via Wikimedia Commons"
+  },
+  "old-market-rooms": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Le_Tigre_guesthouse_Siem_Reap_%2812663555945%29.jpg/960px-Le_Tigre_guesthouse_Siem_Reap_%2812663555945%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ALe_Tigre_guesthouse_Siem_Reap_(12663555945).jpg",
+   "title": "Le Tigre guesthouse Siem Reap (12663555945).jpg",
+   "credit": "Clay Gilliland, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "wat-damnak-boutique": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Reasey_Boutique_Villa_-_Swimmingpool_and_SPA%2C_Siem_Reap%2C_Cambodia%2C_Night.jpg/960px-Reasey_Boutique_Villa_-_Swimmingpool_and_SPA%2C_Siem_Reap%2C_Cambodia%2C_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AReasey_Boutique_Villa_-_Swimmingpool_and_SPA%2C_Siem_Reap%2C_Cambodia%2C_Night.jpg",
+   "title": "Reasey Boutique Villa - Swimmingpool and SPA, Siem Reap, Cambodia, Night.jpg",
+   "credit": "Kissskoool, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "angkor-courtyard-resort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sokha_Angkor_Resort_%2835553218392%29.jpg/960px-Sokha_Angkor_Resort_%2835553218392%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASokha_Angkor_Resort_(35553218392).jpg",
+   "title": "Sokha Angkor Resort (35553218392).jpg",
+   "credit": "Bill Rand from Washington, DC, USA, CC BY 2.0 via Wikimedia Commons"
+  },
+  "sala-lodge-apsara": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Explorez_les_falaises_du_Mont_Kulen_with_Villa_kally_Siem_Reap_%2810%29.jpg/960px-Explorez_les_falaises_du_Mont_Kulen_with_Villa_kally_Siem_Reap_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AExplorez_les_falaises_du_Mont_Kulen_with_Villa_kally_Siem_Reap_(10).jpg",
+   "title": "Explorez les falaises du Mont Kulen with Villa kally Siem Reap (10).jpg",
+   "credit": "Zinero, CC0 via Wikimedia Commons"
+  },
+  "temple-view-family-hotel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Angkor_Heritage_Boutique_Hotel%2C_Siem_Reap%2C_Cambodia.jpg/960px-Angkor_Heritage_Boutique_Hotel%2C_Siem_Reap%2C_Cambodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AAngkor_Heritage_Boutique_Hotel%2C_Siem_Reap%2C_Cambodia.jpg",
+   "title": "Angkor Heritage Boutique Hotel, Siem Reap, Cambodia.jpg",
+   "credit": "No machine-readable author provided. FlemmingN67 assumed (ba, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "riverside-pepper-lodge": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Bohemiaz_Resort_%26_Spa.jpg/960px-Bohemiaz_Resort_%26_Spa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ABohemiaz_Resort_%26_Spa.jpg",
+   "title": "Bohemiaz Resort & Spa.jpg",
+   "credit": "Christophe95, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "mangrove-guesthouse": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/New_Year%27s_eve_at_the_hotel_prosperity_-_Kep._LCCN2011647535.jpg/960px-New_Year%27s_eve_at_the_hotel_prosperity_-_Kep._LCCN2011647535.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ANew_Year's_eve_at_the_hotel_prosperity_-_Kep._LCCN2011647535.jpg",
+   "title": "New Year's eve at the hotel prosperity - Kep. LCCN2011647535.jpg",
+   "credit": "Keppler, Udo J., 1872-1956, artist, Public domain via Wikimedia Commons"
+  },
+  "colonial-quarter-hotel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/View_from_Royal_Hotel_1_-_panoramio.jpg/960px-View_from_Royal_Hotel_1_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AView_from_Royal_Hotel_1_-_panoramio.jpg",
+   "title": "View from Royal Hotel 1 - panoramio.jpg",
+   "credit": "Adriaan Castermans, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "sangker-riverside-inn": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/View_from_Royal_Hotel_2_-_panoramio.jpg/960px-View_from_Royal_Hotel_2_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AView_from_Royal_Hotel_2_-_panoramio.jpg",
+   "title": "View from Royal Hotel 2 - panoramio.jpg",
+   "credit": "Adriaan Castermans, CC BY-SA 3.0 via Wikimedia Commons"
+  },
+  "harbour-stay-inn": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Sihanoukville%2C_hotel_Marina.jpg/960px-Sihanoukville%2C_hotel_Marina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASihanoukville%2C_hotel_Marina.jpg",
+   "title": "Sihanoukville, hotel Marina.jpg",
+   "credit": "Dmitry Makeev, CC BY 3.0 via Wikimedia Commons"
+  },
+  "otres-palm-resort": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sihanoukville._Hotel_Diamond_Sea.jpg/960px-Sihanoukville._Hotel_Diamond_Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASihanoukville._Hotel_Diamond_Sea.jpg",
+   "title": "Sihanoukville. Hotel Diamond Sea.jpg",
+   "credit": "Dmitry Makeev, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "chao-phraya-residence": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Anantara_Siam_Bangkok_Hotel_bell.jpg/960px-Anantara_Siam_Bangkok_Hotel_bell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AAnantara_Siam_Bangkok_Hotel_bell.jpg",
+   "title": "Anantara Siam Bangkok Hotel bell.jpg",
+   "credit": "Chainwit., CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "silom-capsule-stay": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/The_MIXX_Hostel_Khaosan.jpg/960px-The_MIXX_Hostel_Khaosan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AThe_MIXX_Hostel_Khaosan.jpg",
+   "title": "The MIXX Hostel Khaosan.jpg",
+   "credit": "Fuwuyuan, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "marina-skyline-suites": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Singapore_%28SG%29%2C_The_Fullerton_Hotel_--_2019_--_4681.jpg/960px-Singapore_%28SG%29%2C_The_Fullerton_Hotel_--_2019_--_4681.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3ASingapore_(SG)%2C_The_Fullerton_Hotel_--_2019_--_4681.jpg",
+   "title": "Singapore (SG), The Fullerton Hotel -- 2019 -- 4681.jpg",
+   "credit": "Dietmar Rabich, CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "bukit-bintang-residences": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Kuala_Lumpur_skyline_late_afternoon_from_29-floor_apartment_03.jpg/960px-Kuala_Lumpur_skyline_late_afternoon_from_29-floor_apartment_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AKuala_Lumpur_skyline_late_afternoon_from_29-floor_apartment_03.jpg",
+   "title": "Kuala Lumpur skyline late afternoon from 29-floor apartment 03.jpg",
+   "credit": "Pradana Aumars (talk · contribs), CC BY-SA 4.0 via Wikimedia Commons"
+  },
+  "plankton-bay-hostel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Koh_Rong_-_Cambodia_%2850925116073%29.jpg/960px-Koh_Rong_-_Cambodia_%2850925116073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AKoh_Rong_-_Cambodia_(50925116073).jpg",
+   "title": "Koh Rong - Cambodia (50925116073).jpg",
+   "credit": "Rômulo  Gama Ferreira from Vitória-ES, CC BY 2.0 via Wikimedia Commons"
+  },
+  "asakusa-garden-inn": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Garden_and_Hotel_of_Chinzan-s%C5%8D_01_-_Apr_6%2C_2019.jpg/960px-Garden_and_Hotel_of_Chinzan-s%C5%8D_01_-_Apr_6%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AGarden_and_Hotel_of_Chinzan-s%C5%8D_01_-_Apr_6%2C_2019.jpg",
+   "title": "Garden and Hotel of Chinzan-sō 01 - Apr 6, 2019.jpg",
+   "credit": "Zengame, CC BY 2.0 via Wikimedia Commons"
+  },
+  "old-quarter-courtyard-hotel": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Hanoi_Vietnam_%2811826727475%29.jpg/960px-Hanoi_Vietnam_%2811826727475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AHanoi_Vietnam_(11826727475).jpg",
+   "title": "Hanoi Vietnam (11826727475).jpg",
+   "credit": "Clay Gilliland, CC BY-SA 2.0 via Wikimedia Commons"
+  },
+  "saigon-central-boutique": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Ho_Chi_Minh_City%2C_Nguyen_Thi_Minh_Khai_Street%2C_2020-01_CN-01.jpg/960px-Ho_Chi_Minh_City%2C_Nguyen_Thi_Minh_Khai_Street%2C_2020-01_CN-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "page": "https://commons.wikimedia.org/wiki/File%3AHo_Chi_Minh_City%2C_Nguyen_Thi_Minh_Khai_Street%2C_2020-01_CN-01.jpg",
+   "title": "Ho Chi Minh City, Nguyen Thi Minh Khai Street, 2020-01 CN-01.jpg",
+   "credit": "Steffen Schmitz (more photos), CC BY-SA 4.0 via Wikimedia Commons"
+  }
+ }
+}

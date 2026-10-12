@@ -35,11 +35,12 @@ class _CheckoutScreenState extends ConsumerState<CheckoutScreen> {
   Duration? _left;
   late final String _idem = 'wf-${DateTime.now().microsecondsSinceEpoch}-${Random().nextInt(1 << 32)}';
 
-  String get ci => widget.params['checkIn']!;
-  String get co => widget.params['checkOut']!;
-  int get rooms => int.tryParse(widget.params['rooms'] ?? '') ?? 1;
-  int get adults => int.tryParse(widget.params['adults'] ?? '') ?? 2;
-  int get children => int.tryParse(widget.params['children'] ?? '') ?? 0;
+  String? get existingBooking => widget.params['bookingId'];
+  String get ci => widget.params['checkIn'] ?? '';
+  String get co => widget.params['checkOut'] ?? '';
+  int get rooms => int.tryParse(widget.params['rooms'] ?? '') ?? (booking?['rooms'] as int? ?? 1);
+  int get adults => int.tryParse(widget.params['adults'] ?? '') ?? (booking?['adults'] as int? ?? 2);
+  int get children => int.tryParse(widget.params['children'] ?? '') ?? (booking?['children'] as int? ?? 0);
 
   @override
   void initState() {
@@ -59,6 +60,24 @@ class _CheckoutScreenState extends ConsumerState<CheckoutScreen> {
   Future<void> _load() async {
     setState(() { loading = true; error = null; });
     try {
+      if (existingBooking != null) {
+        // Resume payment for a booking that is already held: never create a second booking.
+        final b = await ref.read(apiProvider).getJson('/bookings/$existingBooking');
+        if (b['status'] != 'PENDING_CONFIRMATION') {
+          error = ApiException('This booking is ${(b['status'] as String).replaceAll('_', ' ').toLowerCase()} and can no longer be paid.', code: 'NOT_PAYABLE');
+        } else {
+          booking = b;
+          quote = {
+            'accommodationName': b['accommodation_name'], 'roomName': b['room_name'], 'available': true,
+            'nightly': (b['nights_detail'] as List).map((n) => {'night': n['night'], 'rate_usd': n['rate_usd']}).toList(),
+            'subtotal_usd': b['subtotal_usd'], 'taxes_usd': b['taxes_usd'], 'fees_usd': b['fees_usd'], 'total_usd': b['total_usd'],
+            'cancellationPolicy': b['cancellation_policy'],
+          };
+          _startCountdown(b['hold_expires_at'] as String?);
+        }
+        if (mounted) setState(() => loading = false);
+        return;
+      }
       quote = await ref.read(apiProvider).postJson('/bookings/quote', body: {'roomTypeId': widget.roomTypeId, 'checkIn': ci, 'checkOut': co, 'rooms': rooms});
     } catch (e) {
       error = e;
@@ -125,7 +144,8 @@ class _CheckoutScreenState extends ConsumerState<CheckoutScreen> {
       _email.text = (user['email'] ?? '') as String;
       _phone.text = (user['phone'] ?? '') as String;
     }
-    final nights = nightsBetween(ci, co);
+    final nights = nightsBetween(booking?['check_in'] as String? ?? ci, booking?['check_out'] as String? ?? co);
+    final ciS = booking?['check_in'] as String? ?? ci, coS = booking?['check_out'] as String? ?? co;
 
     Widget summary() {
       if (loading) return const SkeletonList(count: 1, itemHeight: 260);
@@ -138,7 +158,7 @@ class _CheckoutScreenState extends ConsumerState<CheckoutScreen> {
             Text(q['accommodationName'] as String, style: Theme.of(context).textTheme.titleMedium),
             Text(q['roomName'] as String, style: const TextStyle(color: Tokens.inkMuted)),
             const SizedBox(height: 12),
-            Row(children: [const Icon(Icons.calendar_month_outlined, size: 18), const SizedBox(width: 8), Text('${fmtDate(ci)} → ${fmtDate(co)} · $nights night${nights == 1 ? '' : 's'}')]),
+            Row(children: [const Icon(Icons.calendar_month_outlined, size: 18), const SizedBox(width: 8), Text('${fmtDate(ciS)} → ${fmtDate(coS)} · $nights night${nights == 1 ? '' : 's'}')]),
             const SizedBox(height: 6),
             Row(children: [const Icon(Icons.people_outline, size: 18), const SizedBox(width: 8), Text('$adults adult${adults > 1 ? 's' : ''}${children > 0 ? ', $children child${children > 1 ? 'ren' : ''}' : ''} · $rooms room${rooms > 1 ? 's' : ''}')]),
             const Divider(height: 28),

@@ -19,6 +19,7 @@ class StaysScreen extends ConsumerStatefulWidget {
 class _StaysScreenState extends ConsumerState<StaysScreen> {
   late StayQuery q = widget.initial;
   bool showMap = false;
+  Json? _last;
 
   void apply(StayQuery next) => setState(() => q = next.copyWith(page: next.page));
   void reset(StayQuery Function(StayQuery) f) => setState(() => q = f(q).copyWith(page: 1));
@@ -26,12 +27,15 @@ class _StaysScreenState extends ConsumerState<StaysScreen> {
   @override
   Widget build(BuildContext context) {
     final res = ref.watch(staySearchProvider(q));
+    if (res.hasValue) _last = res.value;
+    final stale = !res.hasValue && res.isLoading && _last != null;
+    final shown = res.hasValue ? res : (stale ? AsyncData<Json>(_last!) : res);
     final wide = isWide(context);
     final nights = nightsBetween(q.checkIn, q.checkOut);
     final urlQ = q.toUrlParams();
 
-    final results = AsyncView<Json>(
-      value: res,
+    final resultsView = AsyncView<Json>(
+      value: shown,
       onRetry: () => ref.invalidate(staySearchProvider(q)),
       loading: const SkeletonList(count: 3, itemHeight: 280),
       data: (r) {
@@ -78,7 +82,15 @@ class _StaysScreenState extends ConsumerState<StaysScreen> {
       },
     );
 
-    final total = res.value?['total'];
+    final results = AnimatedOpacity(
+      duration: const Duration(milliseconds: 180),
+      opacity: stale ? 0.5 : 1,
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        if (stale) const Padding(padding: EdgeInsets.only(bottom: 8), child: LinearProgressIndicator(minHeight: 2)),
+        resultsView,
+      ]),
+    );
+    final total = shown.value?['total'];
     final header = Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
       Row(children: [
         Expanded(

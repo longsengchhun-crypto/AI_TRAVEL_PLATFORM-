@@ -83,7 +83,7 @@ class HomeScreen extends ConsumerWidget {
                     ActionChip(
                       avatar: Icon(categoryIcon(c['category'] as String), size: 18),
                       label: Text('${(c['category'] as String)[0].toUpperCase()}${(c['category'] as String).substring(1)} · ${c['count']}'),
-                      onPressed: () => context.go('/destinations?tag=${c['category']}'),
+                      onPressed: () => context.go('/places?category=${c['category']}'),
                     ),
                 ]),
                 const SectionHeader('Top-rated stays', subtitle: 'Sample demo listings, rated by demo reviewers'),

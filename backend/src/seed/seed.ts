@@ -20,6 +20,14 @@ function rng(seed: number) {
     return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
   };
 }
+interface Harvested { url: string; page: string; title: string; credit: string }
+const harvested: { attractions: Record<string, Harvested>; destinations: Record<string, Harvested[]>; restaurants: Record<string, Harvested>; hotels: Record<string, Harvested> } =
+  existsSync(new URL("./images2.json", import.meta.url))
+    ? JSON.parse(readFileSync(new URL("./images2.json", import.meta.url), "utf8"))
+    : { attractions: {}, destinations: {}, restaurants: {}, hotels: {} };
+/** Commons file name, used to avoid assigning the same photograph twice through different URL forms. */
+const fileKey = (url: string) => decodeURIComponent(url.split("/").filter(Boolean).slice(-1)[0] ?? url).replace(/^\d+px-/, "").toLowerCase();
+const hCredit = (h: Harvested) => `Photo: ${h.credit} - ${h.page}`;
 const credit = (page?: string) => (page ? `Photo: Wikipedia/Wikimedia Commons (licence on file page) - ${page}` : null);
 
 export interface SeedSummary { [k: string]: number }
@@ -143,8 +151,37 @@ export async function runSeed(db: Db, opts: { log?: (m: string) => void } = {}):
       for (const i of imgs) await tx.query("INSERT INTO destination_images(destination_id,url,caption,credit,position) VALUES ($1,$2,$3,$4,$5)", [destId[d.slug], i.image, i.name, i.image_credit, pos++]);
     }
 
-    // Gallery cleanup: drop flag/map images from older seeds and re-create galleries from landmark photos.
-    await tx.query("DELETE FROM destination_images WHERE url ILIKE '%Flag_of%' OR url ILIKE '%Coat_of_arms%'");
+    /* ---- photos: apply harvested, distinct, licensed Commons images */
+    const takenFiles = new Set<string>();
+    const note = (u?: string | null) => { if (u) takenFiles.add(fileKey(u)); };
+    for (const r of (await tx.query<any>("SELECT cover_image u FROM destinations UNION ALL SELECT image FROM attractions WHERE image IS NOT NULL")).rows) note(r.u);
+    for (const r of (await tx.query<any>("SELECT slug, image FROM attractions WHERE image IS NULL")).rows) {
+      const h = harvested.attractions[r.slug] ?? harvested.restaurants[r.slug];
+      if (!h || takenFiles.has(fileKey(h.url))) continue;
+      takenFiles.add(fileKey(h.url));
+      await tx.query("UPDATE attractions SET image=$2, image_credit=$3 WHERE slug=$1 AND image IS NULL", [r.slug, h.url, hCredit(h)]);
+    }
+    const attractionFiles = new Set((await tx.query<any>("SELECT image FROM attractions WHERE image IS NOT NULL")).rows.map((r: any) => fileKey(r.image)));
+    for (const d of destinations) {
+      const pool = (harvested.destinations[d.slug] ?? []).filter((h) => !attractionFiles.has(fileKey(h.url)));
+      const cur = (await tx.query<any>("SELECT cover_image, image_credit FROM destinations WHERE slug=$1", [d.slug])).rows[0];
+      let cover: string | null = cur.cover_image;
+      if (!cover && pool[0]) {
+        cover = pool[0].url;
+        await tx.query("UPDATE destinations SET cover_image=$2, image_credit=$3 WHERE slug=$1", [d.slug, cover, hCredit(pool[0])]);
+      }
+      await tx.query("DELETE FROM destination_images WHERE destination_id=$1", [destId[d.slug]]);
+      let pos = 0;
+      const seen = new Set<string>();
+      const add = async (url: string, caption: string, cr: string | null) => {
+        const k = fileKey(url);
+        if (seen.has(k)) return;
+        seen.add(k);
+        await tx.query("INSERT INTO destination_images(destination_id,url,caption,credit,position) VALUES ($1,$2,$3,$4,$5)", [destId[d.slug], url, caption, cr, pos++]);
+      };
+      if (cover) await add(cover, d.name, cur.image_credit);
+      for (const h of pool) await add(h.url, h.title.replace(/\.[a-z]+$/i, "").replace(/_/g, " ").slice(0, 80), hCredit(h));
+    }
 
     /* ---- accommodations + rooms + amenities */
     const amenityId: Record<string, number> = {};
@@ -193,18 +230,45 @@ export async function runSeed(db: Db, opts: { log?: (m: string) => void } = {}):
       roomIds.push(first.id, second.id);
     }
 
-    // Property photos are illustrative destination photos; vary them per property so listings are not visually identical.
-    await tx.query(
-      `UPDATE accommodations a
-          SET cover_image = (SELECT di.url FROM destination_images di WHERE di.destination_id = a.destination_id ORDER BY md5(di.url || a.slug) LIMIT 1),
-              image_credit = 'Illustrative photo of ' || (SELECT d.name FROM destinations d WHERE d.id = a.destination_id) || ' (not this property)'
-        WHERE a.is_demo AND EXISTS (SELECT 1 FROM destination_images di WHERE di.destination_id = a.destination_id)`);
+    // Property photos are illustrative photos of the destination; each property gets its own cover and says so.
+    const hotelCovers = new Set<string>();
+    for (const [dest, name] of hotels) {
+      const slug = slugify(name);
+      const h = harvested.hotels[slug];
+      const d = destinations.find((x) => x.slug === dest)!;
+      if (h && !hotelCovers.has(fileKey(h.url))) {
+        hotelCovers.add(fileKey(h.url));
+        await tx.query("UPDATE accommodations SET cover_image=$2, image_credit=$3 WHERE slug=$1",
+          [slug, h.url, `Illustrative photo of ${d.name}, not this property. ${hCredit(h)}`]);
+      }
+    }
+    // Any property still without its own distinct cover borrows a gallery photo not used as another hotel's cover.
+    for (const [dest, name] of hotels) {
+      const slug = slugify(name);
+      const row = (await tx.query<any>("SELECT cover_image FROM accommodations WHERE slug=$1", [slug])).rows[0];
+      if (row?.cover_image && hotelCovers.has(fileKey(row.cover_image))) continue;
+      const gallery = (await tx.query<any>("SELECT url, credit FROM destination_images WHERE destination_id=$1 ORDER BY position", [destId[dest]])).rows;
+      const pick = gallery.find((g: any) => !hotelCovers.has(fileKey(g.url)));
+      if (!pick) continue;
+      hotelCovers.add(fileKey(pick.url));
+      const d = destinations.find((x) => x.slug === dest)!;
+      await tx.query("UPDATE accommodations SET cover_image=$2, image_credit=$3 WHERE slug=$1",
+        [slug, pick.url, `Illustrative photo of ${d.name}, not this property.${pick.credit ? " " + pick.credit : ""}`]);
+    }
+    await tx.query("DELETE FROM accommodation_images");
     await tx.query(
       `INSERT INTO accommodation_images(accommodation_id, url, caption, position)
-       SELECT a.id, di.url, 'Illustrative photo of ' || d.name, (row_number() OVER (PARTITION BY a.id ORDER BY md5(di.url || a.slug)))::int - 1
+       SELECT a.id, x.url, 'Illustrative photo of ' || d.name, (row_number() OVER (PARTITION BY a.id ORDER BY x.ord))::int - 1
          FROM accommodations a JOIN destinations d ON d.id = a.destination_id
-         JOIN destination_images di ON di.destination_id = a.destination_id
-        WHERE a.is_demo AND NOT EXISTS (SELECT 1 FROM accommodation_images x WHERE x.accommodation_id = a.id)`);
+         JOIN LATERAL (
+            SELECT a.cover_image AS url, 0 AS ord WHERE a.cover_image IS NOT NULL
+            UNION ALL
+            (SELECT di.url, 1 + di.position FROM destination_images di
+              WHERE di.destination_id = a.destination_id AND di.url IS DISTINCT FROM a.cover_image
+                AND di.url NOT IN (SELECT cover_image FROM accommodations WHERE cover_image IS NOT NULL)
+              ORDER BY md5(di.url || a.slug) LIMIT 3)
+         ) x ON true
+        WHERE a.is_demo`);
 
     /* ---- inventory: 120 nights from today; demo blackout so the 'no availability' scenario is reproducible */
     await tx.query(

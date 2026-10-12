@@ -21,3 +21,9 @@
 **Scenario hooks.** Riverside Heritage Hotel is blacked out on days +30..+34 from the seed date (no-availability scenario). The Backpackers' Lounge Hostel is non-refundable.
 
 **Dates.** Inventory covers 120 nights from the day the seed runs; re-run the seed to extend.
+
+## Photos (curated and self-hosted)
+- `npm run images:harvest` finds a distinct, openly licensed (CC BY/CC BY-SA/CC0/PD) Wikimedia Commons photo per place using a relevance check on file title, description and categories.
+- `npm run seed` applies them; `npm run images:finalize` then clears non-free local files, strict-fills gaps, removes duplicate hotel covers and **mirrors every photo (resized to 900 px) into `app/web/img`**, rewriting DB URLs to `IMG_BASE/img/<hash>.jpg`. Hotlinking Wikimedia was dropped because it returns HTTP 429 under load.
+- 15 listings (mostly fictional restaurants and demo activities) intentionally show a neutral placeholder instead of a wrong photo. Hotel and restaurant photos are labelled "Illustrative photo ... not this property".
+- Re-running `seed` rewrites original URLs; run `images:finalize` again afterwards.

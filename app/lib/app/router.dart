@@ -12,6 +12,7 @@ import '../features/auth/auth_controller.dart';
 import '../features/bookings/bookings_screen.dart';
 import '../features/bookings/checkout_screen.dart';
 import '../features/destinations/destinations_screen.dart';
+import '../features/destinations/places_screen.dart';
 import '../features/home/home_screen.dart';
 import '../features/maps/map_screen.dart';
 import '../features/stays/stay_detail_screen.dart';
@@ -48,26 +49,27 @@ final routerProvider = Provider<GoRouter>((ref) {
         navigatorKey: shellKey,
         builder: (context, state, child) => AppShell(location: state.uri.path, child: child),
         routes: [
-          GoRoute(path: '/', builder: (_, _) => const HomeScreen()),
-          GoRoute(path: '/destinations', builder: (_, s) => DestinationsScreen(key: ValueKey(s.uri.toString()), initialTag: s.uri.queryParameters['tag'])),
-          GoRoute(path: '/destinations/:slug', builder: (_, s) => DestinationDetailScreen(key: ValueKey(s.pathParameters['slug']), slug: s.pathParameters['slug']!)),
-          GoRoute(path: '/stays', builder: (_, s) => StaysScreen(key: ValueKey(s.uri.toString()), initial: StayQuery.fromUrl(s.uri.queryParameters))),
-          GoRoute(path: '/stays/:slug', builder: (_, s) => StayDetailScreen(key: ValueKey(s.uri.toString()), slug: s.pathParameters['slug']!, params: s.uri.queryParameters)),
-          GoRoute(path: '/book/:roomTypeId', builder: (_, s) => CheckoutScreen(key: ValueKey(s.uri.toString()), roomTypeId: s.pathParameters['roomTypeId']!, params: s.uri.queryParameters)),
-          GoRoute(path: '/bookings', builder: (_, _) => const BookingsScreen()),
-          GoRoute(path: '/bookings/:id', builder: (_, s) => BookingDetailScreen(key: ValueKey(s.pathParameters['id']), id: s.pathParameters['id']!, justPaid: s.uri.queryParameters['paid'] == '1')),
-          GoRoute(path: '/trips', builder: (_, _) => const TripsScreen()),
-          GoRoute(path: '/trips/new', builder: (_, s) => PlannerScreen(key: ValueKey(s.uri.toString()), destination: s.uri.queryParameters['destination'])),
-          GoRoute(path: '/trips/:id', builder: (_, s) => ItineraryScreen(key: ValueKey(s.pathParameters['id']), id: s.pathParameters['id']!)),
-          GoRoute(path: '/assistant', builder: (_, s) => AssistantScreen(key: ValueKey(s.uri.toString()), initialQuestion: s.uri.queryParameters['q'], destination: s.uri.queryParameters['destination'])),
-          GoRoute(path: '/map', builder: (_, _) => const MapScreen()),
-          GoRoute(path: '/login', builder: (_, s) => AuthScreen(register: false, next: s.uri.queryParameters['next'])),
-          GoRoute(path: '/register', builder: (_, s) => AuthScreen(register: true, next: s.uri.queryParameters['next'])),
-          GoRoute(path: '/account', builder: (_, _) => const AccountScreen()),
-          GoRoute(path: '/wishlist', builder: (_, _) => const WishlistScreen()),
-          GoRoute(path: '/notifications', builder: (_, _) => const NotificationsScreen()),
-          GoRoute(path: '/admin', builder: (_, _) => const AdminScreen()),
-          GoRoute(path: '/partner', builder: (_, _) => const PartnerScreen()),
+          GoRoute(path: '/', pageBuilder: (_, s) => _fade(s, const HomeScreen())),
+          GoRoute(path: '/destinations', pageBuilder: (_, s) => _fade(s, DestinationsScreen(key: ValueKey(s.uri.toString()), initialTag: s.uri.queryParameters['tag']))),
+          GoRoute(path: '/destinations/:slug', pageBuilder: (_, s) => _fade(s, DestinationDetailScreen(key: ValueKey(s.pathParameters['slug']), slug: s.pathParameters['slug']!))),
+          GoRoute(path: '/places', pageBuilder: (_, s) => _fade(s, PlacesScreen(key: ValueKey(s.uri.toString()), category: s.uri.queryParameters['category'], kind: s.uri.queryParameters['kind']))),
+          GoRoute(path: '/stays', pageBuilder: (_, s) => _fade(s, StaysScreen(key: ValueKey(s.uri.toString()), initial: StayQuery.fromUrl(s.uri.queryParameters)))),
+          GoRoute(path: '/stays/:slug', pageBuilder: (_, s) => _fade(s, StayDetailScreen(key: ValueKey(s.uri.toString()), slug: s.pathParameters['slug']!, params: s.uri.queryParameters))),
+          GoRoute(path: '/book/:roomTypeId', pageBuilder: (_, s) => _fade(s, CheckoutScreen(key: ValueKey(s.uri.toString()), roomTypeId: s.pathParameters['roomTypeId']!, params: s.uri.queryParameters))),
+          GoRoute(path: '/bookings', pageBuilder: (_, s) => _fade(s, const BookingsScreen())),
+          GoRoute(path: '/bookings/:id', pageBuilder: (_, s) => _fade(s, BookingDetailScreen(key: ValueKey(s.pathParameters['id']), id: s.pathParameters['id']!, justPaid: s.uri.queryParameters['paid'] == '1'))),
+          GoRoute(path: '/trips', pageBuilder: (_, s) => _fade(s, const TripsScreen())),
+          GoRoute(path: '/trips/new', pageBuilder: (_, s) => _fade(s, PlannerScreen(key: ValueKey(s.uri.toString()), destination: s.uri.queryParameters['destination']))),
+          GoRoute(path: '/trips/:id', pageBuilder: (_, s) => _fade(s, ItineraryScreen(key: ValueKey(s.pathParameters['id']), id: s.pathParameters['id']!))),
+          GoRoute(path: '/assistant', pageBuilder: (_, s) => _fade(s, AssistantScreen(key: ValueKey(s.uri.toString()), initialQuestion: s.uri.queryParameters['q'], destination: s.uri.queryParameters['destination']))),
+          GoRoute(path: '/map', pageBuilder: (_, s) => _fade(s, const MapScreen())),
+          GoRoute(path: '/login', pageBuilder: (_, s) => _fade(s, AuthScreen(register: false, next: s.uri.queryParameters['next']))),
+          GoRoute(path: '/register', pageBuilder: (_, s) => _fade(s, AuthScreen(register: true, next: s.uri.queryParameters['next']))),
+          GoRoute(path: '/account', pageBuilder: (_, s) => _fade(s, const AccountScreen())),
+          GoRoute(path: '/wishlist', pageBuilder: (_, s) => _fade(s, const WishlistScreen())),
+          GoRoute(path: '/notifications', pageBuilder: (_, s) => _fade(s, const NotificationsScreen())),
+          GoRoute(path: '/admin', pageBuilder: (_, s) => _fade(s, const AdminScreen())),
+          GoRoute(path: '/partner', pageBuilder: (_, s) => _fade(s, const PartnerScreen())),
         ],
       ),
     ],
@@ -82,6 +84,13 @@ final routerProvider = Provider<GoRouter>((ref) {
     ),
   );
 });
+
+Page<void> _fade(GoRouterState s, Widget child) => CustomTransitionPage<void>(
+      key: ValueKey(s.uri.toString()),
+      child: child,
+      transitionDuration: const Duration(milliseconds: 180),
+      transitionsBuilder: (context, animation, _, c) => FadeTransition(opacity: CurvedAnimation(parent: animation, curve: Curves.easeOut), child: c),
+    );
 
 class _Nav {
   const _Nav(this.label, this.icon, this.selectedIcon, this.path);
@@ -116,10 +125,10 @@ class AppShell extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final wide = isWide(context);
+    final wide = MediaQuery.sizeOf(context).width >= 1040;
     final idx = _indexFor(location);
     final auth = ref.watch(authProvider);
-    final unread = ref.watch(notificationsProvider).value?['unread'] as int? ?? 0;
+    final unread = auth.signedIn ? (ref.watch(notificationsProvider).value?['unread'] as int? ?? 0) : 0;
 
     final bell = auth.signedIn
         ? IconButton(
@@ -159,6 +168,7 @@ class AppShell extends ConsumerWidget {
                 ),
               ),
             TextButton(onPressed: () => context.go('/destinations'), child: Text('Destinations', style: TextStyle(color: location.startsWith('/destinations') ? Tokens.forest : Tokens.ink))),
+            TextButton(onPressed: () => context.go('/places'), child: Text('Places', style: TextStyle(color: location.startsWith('/places') ? Tokens.forest : Tokens.ink))),
             TextButton(onPressed: () => context.go('/map'), child: Text('Map', style: TextStyle(color: location.startsWith('/map') ? Tokens.forest : Tokens.ink))),
           ]),
           actions: [
@@ -184,6 +194,7 @@ class AppShell extends ConsumerWidget {
         title: wordmark,
         actions: [
           IconButton(tooltip: 'Destinations', onPressed: () => context.go('/destinations'), icon: const Icon(Icons.public)),
+          IconButton(tooltip: 'Places', onPressed: () => context.go('/places'), icon: const Icon(Icons.attractions_outlined)),
           IconButton(tooltip: 'Map', onPressed: () => context.go('/map'), icon: const Icon(Icons.map_outlined)),
           ?bell,
         ],

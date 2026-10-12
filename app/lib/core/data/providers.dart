@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_riverpod/legacy.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -175,26 +177,73 @@ class DestQuery {
 }
 
 /// Records are used as family keys so equal arguments hit the same cache entry.
+/// Keeps an auto-disposed provider's data for a short time so returning to a screen is instant.
+extension CacheFor on Ref {
+  void cacheFor([Duration d = const Duration(minutes: 3)]) {
+    final link = keepAlive();
+    final t = Timer(d, link.close);
+    onDispose(t.cancel);
+  }
+}
+
 typedef StayKey = ({String slug, String? checkIn, String? checkOut, int rooms});
 
 final metaProvider = FutureProvider<Json>((ref) => ref.watch(apiProvider).getJson('/meta'));
-final homeProvider = FutureProvider.autoDispose<Json>((ref) => ref.watch(apiProvider).getJson('/home'));
+final homeProvider = FutureProvider.autoDispose<Json>((ref) {
+  ref.cacheFor();
+  return ref.watch(apiProvider).getJson('/home');
+});
 
 final destinationsProvider = FutureProvider.autoDispose.family<Json, DestQuery>(
-    (ref, q) => ref.watch(apiProvider).getJson('/destinations', query: q.toQuery()));
+    (ref, q) {
+  ref.cacheFor();
+  return ref.watch(apiProvider).getJson('/destinations', query: q.toQuery());
+});
 
 final destinationProvider = FutureProvider.autoDispose.family<Json, String>(
-    (ref, slug) => ref.watch(apiProvider).getJson('/destinations/$slug'));
+    (ref, slug) {
+  ref.cacheFor(const Duration(minutes: 10));
+  return ref.watch(apiProvider).getJson('/destinations/$slug');
+});
 
 final destinationPlacesProvider = FutureProvider.autoDispose.family<Json, ({String slug, String? kind})>(
-    (ref, a) => ref.watch(apiProvider).getJson('/destinations/${a.slug}/attractions', query: {'kind': a.kind, 'pageSize': 50}));
+    (ref, a) {
+  ref.cacheFor(const Duration(minutes: 10));
+  return ref.watch(apiProvider).getJson('/destinations/${a.slug}/attractions', query: {'kind': a.kind, 'pageSize': 50});
+});
 
 final staySearchProvider = FutureProvider.autoDispose.family<Json, StayQuery>(
-    (ref, q) => ref.watch(apiProvider).getJson('/accommodations', query: q.toQuery()));
+    (ref, q) {
+  ref.cacheFor(const Duration(minutes: 1));
+  return ref.watch(apiProvider).getJson('/accommodations', query: q.toQuery());
+});
 
-final stayDetailProvider = FutureProvider.autoDispose.family<Json, StayKey>((ref, k) => ref
-    .watch(apiProvider)
-    .getJson('/accommodations/${k.slug}', query: {'checkIn': k.checkIn, 'checkOut': k.checkOut, 'rooms': k.rooms}));
+final stayDetailProvider = FutureProvider.autoDispose.family<Json, StayKey>((ref, k) {
+  ref.cacheFor(const Duration(minutes: 1));
+  return ref.watch(apiProvider).getJson('/accommodations/${k.slug}', query: {'checkIn': k.checkIn, 'checkOut': k.checkOut, 'rooms': k.rooms});
+});
+
+/// Places search across all destinations (attractions, activities, restaurants).
+class PlaceQuery {
+  const PlaceQuery({this.category, this.kind, this.q, this.page = 1});
+  final String? category, kind, q;
+  final int page;
+  PlaceQuery copyWith({Object? category = _keep, Object? kind = _keep, Object? q = _keep, int? page}) => PlaceQuery(
+        category: identical(category, _keep) ? this.category : category as String?,
+        kind: identical(kind, _keep) ? this.kind : kind as String?,
+        q: identical(q, _keep) ? this.q : q as String?,
+        page: page ?? this.page,
+      );
+  @override
+  bool operator ==(Object o) => o is PlaceQuery && o.category == category && o.kind == kind && o.q == q && o.page == page;
+  @override
+  int get hashCode => Object.hash(category, kind, q, page);
+}
+
+final placesProvider = FutureProvider.autoDispose.family<Json, PlaceQuery>((ref, q) {
+  ref.cacheFor(const Duration(minutes: 5));
+  return ref.watch(apiProvider).getJson('/attractions', query: {'category': q.category, 'kind': q.kind, 'q': q.q, 'page': q.page, 'pageSize': 18});
+});
 
 final reviewsProvider = FutureProvider.autoDispose.family<Json, String>(
     (ref, slug) => ref.watch(apiProvider).getJson('/accommodations/$slug/reviews', query: {'pageSize': 20}));

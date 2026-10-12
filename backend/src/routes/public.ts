@@ -131,7 +131,8 @@ publicRoutes.get("/attractions", h(async (req, res) => {
   if (q.q) where.push(`t.name ILIKE ${p(like(q.q))}`);
   const limit = p(q.pageSize), offset = p((q.page - 1) * q.pageSize);
   const { rows } = await req.db.query<any>(
-    `SELECT t.id, t.slug, t.kind, t.category, t.name, t.description, t.lat, t.lng, t.image, t.price_usd, t.duration_min, t.is_demo,
+    `SELECT t.id, t.slug, t.kind, t.category, t.name, t.description, t.lat, t.lng, t.image, t.image_credit, t.price_usd, t.duration_min, t.is_demo,
+            t.opens_min, t.closes_min, t.hours_verified, t.tips, t.family_friendly,
             d.name AS destination_name, d.slug AS destination_slug, COUNT(*) OVER () AS total_count
        FROM attractions t JOIN destinations d ON d.id=t.destination_id WHERE ${where.join(" AND ")} ORDER BY t.name LIMIT ${limit} OFFSET ${offset}`, params);
   const total = Number(rows[0]?.total_count ?? 0);

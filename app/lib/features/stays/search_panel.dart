@@ -20,17 +20,29 @@ class SearchPanel extends ConsumerStatefulWidget {
 class _SearchPanelState extends ConsumerState<SearchPanel> {
   late StayQuery q = widget.initial;
   late final TextEditingController _dest = TextEditingController();
+  final FocusNode _focus = FocusNode();
   String? _error;
 
   @override
   void initState() {
     super.initState();
     _dest.text = q.q ?? q.destination?.replaceAll('-', ' ') ?? '';
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (mounted) _nameFromSlug((ref.read(metaProvider).value?['destinations'] as List?) ?? const []);
+    });
+  }
+
+  /// Show the human name ("Phnom Penh") instead of the URL slug once the destination list is available.
+  void _nameFromSlug(List dests) {
+    if (q.destination == null || _dest.text != q.destination!.replaceAll('-', ' ')) return;
+    final m = dests.cast<Map>().where((d) => d['slug'] == q.destination).firstOrNull;
+    if (m != null) _dest.text = m['name'] as String;
   }
 
   @override
   void dispose() {
     _dest.dispose();
+    _focus.dispose();
     super.dispose();
   }
 
@@ -106,31 +118,41 @@ class _SearchPanelState extends ConsumerState<SearchPanel> {
   @override
   Widget build(BuildContext context) {
     final dests = (ref.watch(metaProvider).value?['destinations'] as List?) ?? const [];
-    if (q.destination != null && _dest.text == q.destination!.replaceAll('-', ' ')) {
-      final m = dests.cast<Map>().where((d) => d['slug'] == q.destination).firstOrNull;
-      if (m != null) _dest.text = m['name'] as String;
-    }
+    ref.listen(metaProvider, (_, next) => _nameFromSlug((next.value?['destinations'] as List?) ?? const []));
     final wide = isWide(context);
     final dateLabel = q.hasDates ? '${fmtDate(q.checkIn, pattern: 'd MMM')} – ${fmtDate(q.checkOut, pattern: 'd MMM')}  ·  ${nightsBetween(q.checkIn, q.checkOut)} nights' : 'Add dates';
     final guestLabel = '${q.adults} adult${q.adults > 1 ? 's' : ''}${q.children > 0 ? ', ${q.children} child${q.children > 1 ? 'ren' : ''}' : ''} · ${q.rooms} room${q.rooms > 1 ? 's' : ''}';
 
-    final destField = Autocomplete<String>(
+    final destField = RawAutocomplete<String>(
+      textEditingController: _dest,
+      focusNode: _focus,
       optionsBuilder: (v) {
-        final t = v.text.toLowerCase();
-        return dests.cast<Map>().map((d) => d['name'] as String).where((n) => t.isEmpty || n.toLowerCase().contains(t));
+        final t = v.text.trim().toLowerCase();
+        return dests.cast<Map>().map((d) => d['name'] as String).where((n) => t.isEmpty || n.toLowerCase().contains(t)).take(8);
       },
-      initialValue: TextEditingValue(text: _dest.text),
       onSelected: (v) => _dest.text = v,
-      fieldViewBuilder: (context, controller, focus, onSubmit) {
-        controller.addListener(() => _dest.text = controller.text);
-        return TextField(
-          controller: controller,
-          focusNode: focus,
-          textInputAction: TextInputAction.search,
-          onSubmitted: (_) => _submit(dests),
-          decoration: const InputDecoration(labelText: 'Where to?', hintText: 'City, destination or hotel', prefixIcon: Icon(Icons.search_rounded)),
-        );
-      },
+      fieldViewBuilder: (context, controller, focus, onSubmit) => TextField(
+        controller: controller,
+        focusNode: focus,
+        textInputAction: TextInputAction.search,
+        onSubmitted: (_) => _submit(dests),
+        decoration: const InputDecoration(labelText: 'Where to?', hintText: 'City, destination or hotel', prefixIcon: Icon(Icons.search_rounded)),
+      ),
+      optionsViewBuilder: (context, onSelected, options) => Align(
+        alignment: Alignment.topLeft,
+        child: Material(
+          elevation: 4,
+          borderRadius: BorderRadius.circular(Tokens.radius),
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxHeight: 260, maxWidth: 420),
+            child: ListView(
+              padding: EdgeInsets.zero,
+              shrinkWrap: true,
+              children: [for (final o in options) ListTile(dense: true, leading: const Icon(Icons.place_outlined, size: 20), title: Text(o), onTap: () => onSelected(o))],
+            ),
+          ),
+        ),
+      ),
     );
 
     Widget tapField(IconData icon, String label, String value, VoidCallback onTap) => Semantics(
