@@ -1,4 +1,3 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
@@ -103,41 +102,83 @@ class SectionHeader extends StatelessWidget {
 /* ------------------------------------------------------------------ imagery */
 
 /// Network photo with a calm tonal fallback (never a broken-image icon).
-class WImage extends StatelessWidget {
-  const WImage(this.url, {super.key, this.height, this.width, this.radius = 0, this.fallbackIcon = Icons.landscape_outlined, this.label});
+/// Mirrored photos are requested as 480px thumbnails unless [full] is set, and decoded at a capped size.
+class WImage extends StatefulWidget {
+  const WImage(this.url, {super.key, this.height, this.width, this.radius = 0, this.fallbackIcon = Icons.landscape_outlined, this.label, this.full = false});
   final String? url;
   final double? height, width, radius;
   final IconData fallbackIcon;
   final String? label;
+  final bool full;
+
+  @override
+  State<WImage> createState() => _WImageState();
+}
+
+class _WImageState extends State<WImage> {
+  int _attempt = 0;
+  bool _retryScheduled = false;
+
+  String? get _src {
+    var u = widget.url;
+    if (u == null || u.isEmpty) return null;
+    if (!widget.full && u.contains('/img/') && !u.contains('/img/t/')) u = u.replaceFirst('/img/', '/img/t/');
+    return _attempt == 0 ? u : '$u?r=$_attempt';
+  }
 
   Widget _fallback() => Container(
-        height: height,
-        width: width,
-        decoration: BoxDecoration(
-          gradient: const LinearGradient(colors: [Color(0xFFE6E0D0), Color(0xFFD7DFD6)], begin: Alignment.topLeft, end: Alignment.bottomRight),
+        height: widget.height,
+        width: widget.width,
+        decoration: const BoxDecoration(
+          gradient: LinearGradient(colors: [Color(0xFFE6E0D0), Color(0xFFD7DFD6)], begin: Alignment.topLeft, end: Alignment.bottomRight),
         ),
-        child: Center(child: Icon(fallbackIcon, color: Tokens.forest.withValues(alpha: 0.5), size: 32)),
+        child: Center(child: Icon(widget.fallbackIcon, color: Tokens.forest.withValues(alpha: 0.5), size: 32)),
       );
 
   @override
+  void didUpdateWidget(covariant WImage old) {
+    super.didUpdateWidget(old);
+    if (old.url != widget.url) {
+      _attempt = 0;
+      _retryScheduled = false;
+    }
+  }
+
+  @override
   Widget build(BuildContext context) {
-    final r = BorderRadius.circular(radius ?? 0);
-    final child = (url == null || url!.isEmpty)
+    final src = _src;
+    final reduce = MediaQuery.of(context).disableAnimations;
+    final Widget child = src == null
         ? _fallback()
-        : CachedNetworkImage(
-            imageUrl: url!,
-            height: height,
-            width: width,
+        : Image.network(
+            src,
+            key: ValueKey(src),
+            height: widget.height,
+            width: widget.width,
             fit: BoxFit.cover,
-            fadeInDuration: MediaQuery.of(context).disableAnimations ? Duration.zero : const Duration(milliseconds: 200),
-            placeholder: (_, _) => Container(height: height, width: width, color: Tokens.sand),
-            errorWidget: (_, _, _) => _fallback(),
+            gaplessPlayback: true,
+            filterQuality: FilterQuality.medium,
+            // Decode no larger than needed: keeps GPU/texture memory low so photos never turn black on long lists.
+            cacheWidth: widget.full ? 1280 : 560,
+            frameBuilder: (context, child, frame, sync) {
+              if (sync) return child;
+              return Stack(fit: StackFit.passthrough, children: [
+                Container(height: widget.height, width: widget.width, color: Tokens.sand),
+                AnimatedOpacity(opacity: frame == null ? 0 : 1, duration: reduce ? Duration.zero : const Duration(milliseconds: 220), child: child),
+              ]);
+            },
+            errorBuilder: (context, error, stack) {
+              // One automatic retry (transient network errors), then the calm fallback.
+              if (_attempt < 2 && !_retryScheduled) {
+                _retryScheduled = true;
+                Future<void>.delayed(const Duration(milliseconds: 900), () {
+                  if (mounted) setState(() { _attempt++; _retryScheduled = false; });
+                });
+              }
+              return _fallback();
+            },
           );
-    return Semantics(
-      image: true,
-      label: label,
-      child: ClipRRect(borderRadius: r, child: child),
-    );
+    return Semantics(image: true, label: widget.label, child: ClipRRect(borderRadius: BorderRadius.circular(widget.radius ?? 0), child: child));
   }
 }
 

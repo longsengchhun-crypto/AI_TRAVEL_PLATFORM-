@@ -76,7 +76,7 @@ publicRoutes.get("/destinations/:id", h(async (req, res) => {
   if (!d) throw notFound("Destination");
   const [images, related, top, hotels, docs] = await Promise.all([
     req.db.query("SELECT url, caption, credit FROM destination_images WHERE destination_id=$1 ORDER BY position", [d.id]),
-    req.db.query(`SELECT r.id, r.slug, r.name, r.country, r.cover_image, r.lat, r.lng, r.short_description FROM related_destinations rd
+    req.db.query(`SELECT r.id, r.slug, r.name, r.country, r.cover_image, r.lat, r.lng, r.short_description, r.daily_budget_usd FROM related_destinations rd
                     JOIN destinations r ON r.id = rd.related_id WHERE rd.destination_id = $1 AND r.deleted_at IS NULL`, [d.id]),
     req.db.query(`SELECT id, slug, kind, category, name, image, price_usd, duration_min, lat, lng, is_demo FROM attractions
                    WHERE destination_id=$1 AND deleted_at IS NULL AND kind <> 'restaurant' ORDER BY price_usd DESC NULLS LAST LIMIT 6`, [d.id]),

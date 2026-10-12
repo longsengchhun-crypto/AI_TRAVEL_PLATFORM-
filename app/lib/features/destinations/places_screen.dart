@@ -19,7 +19,7 @@ void showPlaceSheet(BuildContext context, WidgetRef ref, Json p) {
       child: SingleChildScrollView(
         padding: const EdgeInsets.fromLTRB(20, 0, 20, 24),
         child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
-          if (p['image'] != null) WImage(p['image'] as String?, height: 180, width: double.infinity, radius: 10, label: 'Photo of ${p['name']}'),
+          if (p['image'] != null) WImage(p['image'] as String?, full: true, height: 180, width: double.infinity, radius: 10, label: 'Photo of ${p['name']}'),
           if (p['image_credit'] != null)
             Padding(padding: const EdgeInsets.only(top: 4), child: Text(p['image_credit'] as String, style: const TextStyle(fontSize: 11, color: Tokens.inkMuted))),
           const SizedBox(height: 12),

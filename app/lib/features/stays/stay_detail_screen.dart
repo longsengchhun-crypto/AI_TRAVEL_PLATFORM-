@@ -214,7 +214,7 @@ class _GalleryState extends State<_Gallery> {
       AspectRatio(
         aspectRatio: isWide(context) ? 2.6 : 1.6,
         child: Stack(fit: StackFit.expand, children: [
-          WImage(urls[i], radius: 12, label: 'Photo ${i + 1} of ${urls.length} for ${widget.name}', height: double.infinity, width: double.infinity, fallbackIcon: Icons.hotel_outlined),
+          WImage(urls[i], full: true, radius: 12, label: 'Photo ${i + 1} of ${urls.length} for ${widget.name}', height: double.infinity, width: double.infinity, fallbackIcon: Icons.hotel_outlined),
           if (urls.length > 1) ...[
             Positioned(left: 8, top: 0, bottom: 0, child: Center(child: IconButton.filledTonal(tooltip: 'Previous photo', onPressed: () => setState(() => i = (i - 1 + urls.length) % urls.length), icon: const Icon(Icons.chevron_left)))),
             Positioned(right: 8, top: 0, bottom: 0, child: Center(child: IconButton.filledTonal(tooltip: 'Next photo', onPressed: () => setState(() => i = (i + 1) % urls.length), icon: const Icon(Icons.chevron_right)))),

@@ -14,6 +14,7 @@ class DestinationCard extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final money = ref.watch(moneyProvider);
+    final budget = d['daily_budget_usd'] as num?;
     return Semantics(
       button: true,
       label: '${d['name']}, ${d['country']}',
@@ -29,7 +30,7 @@ class DestinationCard extends ConsumerWidget {
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 Text(d['name'] as String, style: Theme.of(context).textTheme.titleMedium, maxLines: 1, overflow: TextOverflow.ellipsis),
                 const SizedBox(height: 2),
-                Text('${d['country']}  ·  from ${money(d['daily_budget_usd'] as num)}/day',
+                Text('${d['country']}${budget == null ? '' : '  ·  from ${money(budget)}/day'}',
                     style: const TextStyle(color: Tokens.inkMuted, fontSize: 13), maxLines: 1, overflow: TextOverflow.ellipsis),
               ]),
             ),

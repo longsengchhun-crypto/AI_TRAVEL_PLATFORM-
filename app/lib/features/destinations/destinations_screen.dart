@@ -155,7 +155,7 @@ class _DestinationDetailScreenState extends ConsumerState<DestinationDetailScree
           SizedBox(
             height: wide ? 380 : 240,
             child: Stack(fit: StackFit.expand, children: [
-              WImage(d['cover_image'] as String?, label: 'Photo of ${d['name']}', height: double.infinity, width: double.infinity),
+              WImage(d['cover_image'] as String?, label: 'Photo of ${d['name']}', height: double.infinity, width: double.infinity, full: true),
               Container(decoration: const BoxDecoration(gradient: LinearGradient(begin: Alignment.topCenter, end: Alignment.bottomCenter, colors: [Color(0x00000000), Color(0xB3000000)]))),
               Positioned(
                 left: 0,
@@ -286,7 +286,7 @@ class SaveButton extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final signedIn = ref.watch(authProvider).signedIn;
-    final wish = ref.watch(wishlistProvider).value;
+    final wish = signedIn ? ref.watch(wishlistProvider).value : null;
     final saved = (wish?['items'] as List?)?.any((i) => i['ref_id'] == id) ?? false;
     return OutlinedButton.icon(
       onPressed: () async {
