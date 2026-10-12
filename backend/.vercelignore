@@ -1,0 +1,5 @@
+.env
+.env.*
+tests
+node_modules
+.pglite

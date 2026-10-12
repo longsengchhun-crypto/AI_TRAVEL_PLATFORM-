@@ -1,0 +1,28 @@
+# Local development only. The public demo runs on Vercel + Neon and does not use this file.
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: wayfarer
+      POSTGRES_PASSWORD: wayfarer_local_only
+      POSTGRES_DB: wayfarer
+    ports: ["5432:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U wayfarer"]
+      interval: 5s
+      retries: 10
+  api:
+    build: ./backend
+    depends_on:
+      db: { condition: service_healthy }
+    environment:
+      NODE_ENV: development
+      DATABASE_URL: postgresql://wayfarer:wayfarer_local_only@db:5432/wayfarer
+      JWT_ACCESS_SECRET: local-dev-access-secret-change-me-0123456789
+      JWT_REFRESH_SECRET: local-dev-refresh-secret-change-me-0123456789
+      PAYMENT_PROVIDER_MODE: mock
+    ports: ["8080:8080"]
+    command: sh -c "npx tsx src/db/migrate.ts && npx tsx src/seed/seed.ts && npx tsx src/server.ts"
+volumes:
+  pgdata:

@@ -1,0 +1,310 @@
+{
+ "Koh_Rong": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Sok_San_Bungalows_koh_Rong_island_Cambodia.jpg/960px-Sok_San_Bungalows_koh_Rong_island_Cambodia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Koh_Rong"
+ },
+ "Phnom_Penh": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg/960px-Phnom_Penh_skyline_from_TK_district_Dec_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Phnom_Penh"
+ },
+ "Battambang": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Aerial_view_of_Battambang_city.jpg/960px-Aerial_view_of_Battambang_city.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Battambang"
+ },
+ "Siem_Reap": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Front_porch_of_Wat_Damnak.jpg/960px-Front_porch_of_Wat_Damnak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Siem_Reap"
+ },
+ "Kampot": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2016_Kampot%2C_Budynek_ze_sklepami.jpg/960px-2016_Kampot%2C_Budynek_ze_sklepami.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Kampot"
+ },
+ "Sihanoukville,_Cambodia": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Aerial_View_of_Golden_Lions_Roundabout.jpg/960px-Aerial_View_of_Golden_Lions_Roundabout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Sihanoukville"
+ },
+ "Bangkok": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/960px-4Y1A1159_Bangkok_%2833536795515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Bangkok"
+ },
+ "Singapore": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/960px-Flag_of_Singapore.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Singapore"
+ },
+ "Mondulkiri_Province": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Mondulkiri_province_Northeastern_Cambodia.jpg/960px-Mondulkiri_province_Northeastern_Cambodia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Mondulkiri_province"
+ },
+ "Kuala_Lumpur": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Bukit_Bintang_junction_in_2024_2.jpg/960px-Bukit_Bintang_junction_in_2024_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+ },
+ "Seoul": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/960px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Seoul"
+ },
+ "Hanoi": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg/960px-Hanoi_skyline_with_Ba_Vi_Mountain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Hanoi"
+ },
+ "Ho_Chi_Minh_City": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ho_Chi_Minh_City%2C_City_Hall%2C_2020-01_CN-03.jpg/960px-Ho_Chi_Minh_City%2C_City_Hall%2C_2020-01_CN-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City"
+ },
+ "Ubud": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Ubud_%2849818456887%29.jpg/960px-Ubud_%2849818456887%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ubud"
+ },
+ "Luang_Prabang": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg/960px-Phou_si_Luang_Prabang_Laos_%E3%83%97%E3%83%BC%E3%82%B7%E3%83%BC%E3%81%AE%E4%B8%98_%E3%83%A9%E3%82%AA%E3%82%B9%E3%83%BB%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%97%E3%83%A9%E3%83%90%E3%83%BC%E3%83%B3_DSCF6777.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Luang_Prabang"
+ },
+ "Chiang_Mai": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg/960px-0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Chiang_Mai"
+ },
+ "Angkor_Wat": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/960px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Angkor_Wat"
+ },
+ "Angkor_National_Museum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Angkor_National_Museum_%28II%29.jpg/960px-Angkor_National_Museum_%28II%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Angkor_National_Museum"
+ },
+ "Bayon": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG/960px-Bayon%2C_Angkor_Thom%2C_Camboya%2C_2013-08-17%2C_DD_37.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Bayon"
+ },
+ "Ream_National_Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Ream_National_Park_-_padoga.jpg/960px-Ream_National_Park_-_padoga.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ream_National_Park"
+ },
+ "Kampot_pepper": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Poivre_kampot01.jpg/960px-Poivre_kampot01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Kampot_pepper"
+ },
+ "Chatuchak_Weekend_Market": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Bangkok_-_Jatujak_Market_02.JPG/960px-Bangkok_-_Jatujak_Market_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Chatuchak_Weekend_Market"
+ },
+ "Grand_Palace": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/0005574_-_Wat_Phra_Kaew_006.jpg/960px-0005574_-_Wat_Phra_Kaew_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Grand_Palace"
+ },
+ "Gardens_by_the_Bay": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay"
+ },
+ "Petronas_Towers": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Petronas_Towers_Logo.svg/960px-Petronas_Towers_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Petronas_Towers"
+ },
+ "Marina_Bay_Sands": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Marina_Bay_Sands_%28I%29.jpg/960px-Marina_Bay_Sands_%28I%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Marina_Bay_Sands"
+ },
+ "Temple_of_Literature,_Hanoi": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hanoi_Temple_of_Literature_%28cropped%29.jpg/960px-Hanoi_Temple_of_Literature_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Temple_of_Literature%2C_Hanoi"
+ },
+ "Meiji_Shrine": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Meiji_Jingu_2023-3.jpg/960px-Meiji_Jingu_2023-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Meiji_Shrine"
+ },
+ "Shibuya_Crossing": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Shibuya_Crossing%2C_Aerial.jpg/960px-Shibuya_Crossing%2C_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Shibuya_Crossing"
+ },
+ "Sensō-ji": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Sensoji_2023.jpg/960px-Sensoji_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"
+ },
+ "Wat_Phra_That_Doi_Suthep": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Wat_Phra_That_Doi_Suthep_-_Chiang_Mai.jpg/960px-Wat_Phra_That_Doi_Suthep_-_Chiang_Mai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Phra_That_Doi_Suthep"
+ },
+ "Tokyo": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/960px-Skyscrapers_of_Shinjuku_2009_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Tokyo"
+ },
+ "Royal_Palace,_Phnom_Penh": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg/960px-Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Royal_Palace_of_Cambodia"
+ },
+ "National_Museum_of_Cambodia": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Entrance_of_the_National_Museum_of_Cambodia.jpg/960px-Entrance_of_the_National_Museum_of_Cambodia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/National_Museum_of_Cambodia"
+ },
+ "Wat_Phnom": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Wat_Phnom_Doun_Penh.jpg/960px-Wat_Phnom_Doun_Penh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Phnom"
+ },
+ "Tuol_Sleng_Genocide_Museum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Tuol_Sleng.jpg/960px-Tuol_Sleng.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Tuol_Sleng_Genocide_Museum"
+ },
+ "Choeung_Ek": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/960px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Choeung_Ek"
+ },
+ "Central_Market,_Phnom_Penh": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Aerial_view_of_Phnom_Penh%27s_Central_Market_%28September_2021%29.jpg/960px-Aerial_view_of_Phnom_Penh%27s_Central_Market_%28September_2021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Central_Market_(Phnom_Penh)"
+ },
+ "Independence_Monument_(Cambodia)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/02-Independence_Monument_Phnom_Penh-nX-6.jpg/960px-02-Independence_Monument_Phnom_Penh-nX-6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Independence_Monument_(Cambodia)"
+ },
+ "Sisowath_Quay": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Riverside_Park%2C_Phnom_Penh.jpg/960px-Riverside_Park%2C_Phnom_Penh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Sisowath_Quay"
+ },
+ "Wat_Ounalom": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Ch%C3%B9a_Campuchia_-_panoramio_%282%29.jpg/960px-Ch%C3%B9a_Campuchia_-_panoramio_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Ounalom"
+ },
+ "Banteay_Srei": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Banteay_Srei_full2.jpg/960px-Banteay_Srei_full2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Banteay_Srei"
+ },
+ "Preah_Khan": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Preah_Khan%2C_Angkor%2C_Camboya%2C_2013-08-17%2C_DD_26.JPG/960px-Preah_Khan%2C_Angkor%2C_Camboya%2C_2013-08-17%2C_DD_26.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Preah_Khan"
+ },
+ "Bokor_National_Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Scenic_View_from_Bokor_Hill_Station_-_Near_Kampot_-_Cambodia_-_04_%2848528869996%29.jpg/960px-Scenic_View_from_Bokor_Hill_Station_-_Near_Kampot_-_Cambodia_-_04_%2848528869996%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Preah_Monivong_National_Park"
+ },
+ "Kep_National_Park": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Kep_National_Park_6.jpg/960px-Kep_National_Park_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Kep_National_Park"
+ },
+ "Rabbit_Island_(Cambodia)": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Koh_thonsay_island.jpg/960px-Koh_thonsay_island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Koh_Tonsay"
+ },
+ "Bamboo_train": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Norrydisassembled01.JPG/960px-Norrydisassembled01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Norry"
+ },
+ "Irrawaddy_dolphin": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg/960px-Irrawaddy_dolphin-Orcaella_brevirostris_by_2eight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Irrawaddy_dolphin"
+ },
+ "Wat_Pho": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%84%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%99.jpg/960px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%84%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%99.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Pho"
+ },
+ "Wat_Arun": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg/960px-%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Arun"
+ },
+ "Singapore_Botanic_Gardens": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Symphony_Lake%2C_Singapore_Botanic_Gardens_-_20041025.jpg/960px-Symphony_Lake%2C_Singapore_Botanic_Gardens_-_20041025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Singapore_Botanic_Gardens"
+ },
+ "Batu_Caves": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Batu_Caves_stairs_2022-05.jpg/960px-Batu_Caves_stairs_2022-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Batu_Caves"
+ },
+ "War_Remnants_Museum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/War_Remnants_Museum%2C_HCMC%2C_front.JPG/960px-War_Remnants_Museum%2C_HCMC%2C_front.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/War_Remnants_Museum"
+ },
+ "Saigon_Notre-Dame_Basilica": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_03.JPG/960px-Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Notre-Dame_Cathedral_Basilica_of_Saigon"
+ },
+ "Ben_Thanh_Market": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG/960px-Ben_Thanh%2C_Ciudad_Ho_Chi_Minh%2C_Vietnam%2C_2013-08-14%2C_DD_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/B%E1%BA%BFn_Th%C3%A0nh_Market"
+ },
+ "Hoàn_Kiếm_Lake": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Thap_Rua.jpg/960px-Thap_Rua.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ho%C3%A0n_Ki%E1%BA%BFm_Lake"
+ },
+ "Tegallalang": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Indonesia_Gianyar_Tegallalang_district_location_map.svg/960px-Indonesia_Gianyar_Tegallalang_district_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Tegallalang"
+ },
+ "Ubud_Monkey_Forest": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Monkey_Forest.jpg/960px-Monkey_Forest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ubud_Monkey_Forest"
+ },
+ "Ubud_Palace": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ubud_Palace_%282022%29.jpg/960px-Ubud_Palace_%282022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ubud_Palace"
+ },
+ "Gyeongbokgung": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg/960px-%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Gyeongbokgung"
+ },
+ "Bukchon_Hanok_Village": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bukchon_Hanok_Village_01.jpg/960px-Bukchon_Hanok_Village_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Bukchon_Hanok_Village"
+ },
+ "Kuang_Si_Falls": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/The_river_of_Kuang_si_waterfalls.jpg/960px-The_river_of_Kuang_si_waterfalls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Kuang_Si_Falls"
+ },
+ "Wat_Chedi_Luang": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.jpg/960px-%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Chedi_Luang"
+ },
+ "Ta_Prohm": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Ta_Prohm_%28III%29.jpg/960px-Ta_Prohm_%28III%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ta_Prohm"
+ },
+ "Maxwell_Food_Centre": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Maxwell_Food_Centre.jpg/960px-Maxwell_Food_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Maxwell_Food_Centre"
+ },
+ "Gwangjang_Market": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gwangjang_Market%2C_Seoul_01.jpg/960px-Gwangjang_Market%2C_Seoul_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Gwangjang_Market"
+ },
+ "Wat_Xieng_Thong": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg/960px-Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Xieng_Thong"
+ },
+ "Wat_Langka": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/2016_Phnom_Penh%2C_Wat_Langka_%2823%29.jpg/960px-2016_Phnom_Penh%2C_Wat_Langka_%2823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Langka"
+ },
+ "Banteay_Samre": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Banteay_Samre%2C_Cambodia_%282212223080%29.jpg/960px-Banteay_Samre%2C_Cambodia_%282212223080%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Banteay_Samr%C3%A9"
+ },
+ "Wat_Ek_Phnom": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Ek_Phnom3.JPG/960px-Ek_Phnom3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Wat_Ek_Phnom"
+ },
+ "Jim_Thompson_House": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg/960px-Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Jim_Thompson_House"
+ },
+ "Sentosa": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/1_sentosa_aerial_2016.jpg/960px-1_sentosa_aerial_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Sentosa"
+ },
+ "Cu_Chi_tunnels": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/C%E1%BB%A7_Chi_tunnels_entrance.JPG/960px-C%E1%BB%A7_Chi_tunnels_entrance.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/C%E1%BB%A7_Chi_tunnels"
+ },
+ "Ho_Chi_Minh_Mausoleum": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/L%C4%83ng_B%C3%A1c_-_NKS.jpg/960px-L%C4%83ng_B%C3%A1c_-_NKS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_Mausoleum"
+ },
+ "Tirta_Empul": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg/960px-Bali_-_bathing_%28Melukat%29_at_Pura_Tirta_Empul_%282025%29_-_img_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Tirta_Empul"
+ },
+ "Tokyo_Skytree": {
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Tokyo_Skytree_2014_%E2%85%A2.jpg/960px-Tokyo_Skytree_2014_%E2%85%A2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
+ },
+ "N_Seoul_Tower": {
+  "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a6/NamsanTower_%28Cropped%29.jpeg/960px-NamsanTower_%28Cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "page": "https://en.wikipedia.org/wiki/Namsan_Seoul_Tower"
+ }
+}
